@@ -1,0 +1,5326 @@
+{
+    "Hank": {
+        "Gem Grab": {
+            "Winrate": "72.2%",
+            "Pickrate": "0.55%",
+            "ScoreO": "54.3",
+            "Score": 69.26100000000001
+        },
+        "Knockout": {
+            "Winrate": "72.7%",
+            "Pickrate": "0.46%",
+            "ScoreO": "52.8",
+            "Score": 63.1062
+        },
+        "Duo Showdown": {
+            "Winrate": "72.2%",
+            "Pickrate": "0.31%",
+            "ScoreO": "49.5",
+            "Score": 51.64020000000001
+        },
+        "Hot Zone": {
+            "Winrate": "45.1%",
+            "Pickrate": "0.94%",
+            "ScoreO": "45.9",
+            "Score": 59.0334
+        },
+        "Wipeout": {
+            "Winrate": "68%",
+            "Pickrate": "0.12%",
+            "ScoreO": "43.2",
+            "Score": 35.456
+        },
+        "Brawl Ball": {
+            "Winrate": "57.7%",
+            "Pickrate": "0.36%",
+            "ScoreO": "41.8",
+            "Score": 43.769200000000005
+        },
+        "Showdown": {
+            "Winrate": "41.7%",
+            "Pickrate": "0.26%",
+            "ScoreO": "30.2",
+            "Score": 27.046200000000006
+        },
+        "Bounty": {
+            "Winrate": "42.4%",
+            "Pickrate": "0.16%",
+            "ScoreO": "28.6",
+            "Score": 23.462400000000002
+        },
+        "Heist": {
+            "Winrate": "42.9%",
+            "Pickrate": "0.02%",
+            "ScoreO": "26.1",
+            "Score": 17.9838
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.2%",
+            "ScoreO": "4",
+            "Score": -1.2000000000000002
+        }
+    },
+    "Belle": {
+        "Bounty": {
+            "Winrate": "52.7%",
+            "Pickrate": "2.42%",
+            "ScoreO": "80",
+            "Score": 89.52234620505786
+        },
+        "Knockout": {
+            "Winrate": "61.1%",
+            "Pickrate": "1.91%",
+            "ScoreO": "74.8",
+            "Score": 93.30545726175616
+        },
+        "Payload": {
+            "Winrate": "91.7%",
+            "Pickrate": "0.78%",
+            "ScoreO": "70.6",
+            "Score": 110.67860000000002
+        },
+        "Brawl Ball": {
+            "Winrate": "68.4%",
+            "Pickrate": "1.29%",
+            "ScoreO": "66.9",
+            "Score": 90.98950655120744
+        },
+        "Wipeout": {
+            "Winrate": "45.3%",
+            "Pickrate": "1.25%",
+            "ScoreO": "52.2",
+            "Score": 60.116186539426295
+        },
+        "Heist": {
+            "Winrate": "49.3%",
+            "Pickrate": "1.09%",
+            "ScoreO": "51.4",
+            "Score": 61.18961088723158
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.51%",
+            "ScoreO": "50.2",
+            "Score": 61.03870000000001
+        },
+        "Hot Zone": {
+            "Winrate": "59.4%",
+            "Pickrate": "0.61%",
+            "ScoreO": "47.9",
+            "Score": 59.95740000000001
+        },
+        "Gem Grab": {
+            "Winrate": "48.2%",
+            "Pickrate": "0.59%",
+            "ScoreO": "40.7",
+            "Score": 47.0218
+        },
+        "Showdown": {
+            "Winrate": "23.1%",
+            "Pickrate": "0.14%",
+            "ScoreO": "16.7",
+            "Score": 11.957400000000002
+        }
+    },
+    "Willow": {
+        "Gem Grab": {
+            "Winrate": "77.3%",
+            "Pickrate": "0.32%",
+            "ScoreO": "52.8",
+            "Score": 56.2096
+        },
+        "Bounty": {
+            "Winrate": "72%",
+            "Pickrate": "0.26%",
+            "ScoreO": "48.4",
+            "Score": 47.832
+        },
+        "Brawl Ball": {
+            "Winrate": "66.6%",
+            "Pickrate": "0.42%",
+            "ScoreO": "48.4",
+            "Score": 54.8892
+        },
+        "Hot Zone": {
+            "Winrate": "68.9%",
+            "Pickrate": "0.31%",
+            "ScoreO": "47.5",
+            "Score": 49.194900000000004
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.24%",
+            "ScoreO": "44.8",
+            "Score": 42.848800000000004
+        },
+        "Knockout": {
+            "Winrate": "56.5%",
+            "Pickrate": "0.2%",
+            "ScoreO": "37.9",
+            "Score": 33.830000000000005
+        },
+        "Showdown": {
+            "Winrate": "34.3%",
+            "Pickrate": "0.24%",
+            "ScoreO": "25.4",
+            "Score": 21.3352
+        },
+        "Heist": {
+            "Winrate": "13.3%",
+            "Pickrate": "0.03%",
+            "ScoreO": "8.6",
+            "Score": 5.578900000000001
+        },
+        "Wipeout": {
+            "Winrate": "7.4%",
+            "Pickrate": "0.04%",
+            "ScoreO": "5.3",
+            "Score": 3.0456000000000008
+        }
+    },
+    "Moe": {
+        "Gem Grab": {
+            "Winrate": "64.4%",
+            "Pickrate": "0.49%",
+            "ScoreO": "48.4",
+            "Score": 57.53160000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "55%",
+            "Pickrate": "0.68%",
+            "ScoreO": "46.6",
+            "Score": 59.06000000000001
+        },
+        "Payload": {
+            "Winrate": "50%",
+            "Pickrate": "0.65%",
+            "ScoreO": "43",
+            "Score": 51.85
+        },
+        "Hot Zone": {
+            "Winrate": "47.7%",
+            "Pickrate": "0.34%",
+            "ScoreO": "35.4",
+            "Score": 34.8798
+        },
+        "Duo Showdown": {
+            "Winrate": "50%",
+            "Pickrate": "0.21%",
+            "ScoreO": "34.2",
+            "Score": 30.29
+        },
+        "Showdown": {
+            "Winrate": "25.5%",
+            "Pickrate": "0.2%",
+            "ScoreO": "19.3",
+            "Score": 14.610000000000001
+        },
+        "Knockout": {
+            "Winrate": "22.4%",
+            "Pickrate": "0.13%",
+            "ScoreO": "16",
+            "Score": 11.3832
+        },
+        "Heist": {
+            "Winrate": "22.7%",
+            "Pickrate": "0.11%",
+            "ScoreO": "15.8",
+            "Score": 11.1667
+        },
+        "Bounty": {
+            "Winrate": "25%",
+            "Pickrate": "0.03%",
+            "ScoreO": "15.6",
+            "Score": 10.645
+        },
+        "Wipeout": {
+            "Winrate": "21.4%",
+            "Pickrate": "0.04%",
+            "ScoreO": "13.7",
+            "Score": 9.2616
+        }
+    },
+    "Pearl": {
+        "Knockout": {
+            "Winrate": "66.1%",
+            "Pickrate": "1.64%",
+            "ScoreO": "72.5",
+            "Score": 95.21124725508321
+        },
+        "Gem Grab": {
+            "Winrate": "64.4%",
+            "Pickrate": "1%",
+            "ScoreO": "58.6",
+            "Score": 90.60000000000002
+        },
+        "Brawl Ball": {
+            "Winrate": "74.9%",
+            "Pickrate": "0.39%",
+            "ScoreO": "52.7",
+            "Score": 59.75210000000001
+        },
+        "Showdown": {
+            "Winrate": "54.3%",
+            "Pickrate": "0.56%",
+            "ScoreO": "43.8",
+            "Score": 51.808800000000005
+        },
+        "Duo Showdown": {
+            "Winrate": "62.5%",
+            "Pickrate": "0.31%",
+            "ScoreO": "43.7",
+            "Score": 44.4525
+        },
+        "Wipeout": {
+            "Winrate": "49%",
+            "Pickrate": "0.24%",
+            "ScoreO": "34.2",
+            "Score": 31.096
+        },
+        "Bounty": {
+            "Winrate": "42.7%",
+            "Pickrate": "0.41%",
+            "ScoreO": "33.8",
+            "Score": 33.877700000000004
+        },
+        "Payload": {
+            "Winrate": "33.3%",
+            "Pickrate": "0.39%",
+            "ScoreO": "27.8",
+            "Score": 25.265700000000002
+        },
+        "Hot Zone": {
+            "Winrate": "40%",
+            "Pickrate": "0.09%",
+            "ScoreO": "25.8",
+            "Score": 19.42
+        },
+        "Heist": {
+            "Winrate": "12%",
+            "Pickrate": "0.04%",
+            "ScoreO": "8",
+            "Score": 5.088000000000001
+        }
+    },
+    "Mico": {
+        "Duo Showdown": {
+            "Winrate": "68.2%",
+            "Pickrate": "1.62%",
+            "ScoreO": "73.3",
+            "Score": 97.56390447732879
+        },
+        "Basket Brawl": {
+            "Winrate": "100%",
+            "Pickrate": "0.21%",
+            "ScoreO": "64.2",
+            "Score": 61.84
+        },
+        "Showdown": {
+            "Winrate": "40.9%",
+            "Pickrate": "1.32%",
+            "ScoreO": "50.9",
+            "Score": 56.05019209794839
+        },
+        "Heist": {
+            "Winrate": "53.2%",
+            "Pickrate": "0.88%",
+            "ScoreO": "49.5",
+            "Score": 67.4976
+        },
+        "Hot Zone": {
+            "Winrate": "45.6%",
+            "Pickrate": "0.81%",
+            "ScoreO": "43.6",
+            "Score": 54.00960000000001
+        },
+        "Knockout": {
+            "Winrate": "39.9%",
+            "Pickrate": "0.89%",
+            "ScoreO": "41.8",
+            "Score": 49.682100000000005
+        },
+        "Gem Grab": {
+            "Winrate": "58.9%",
+            "Pickrate": "0.27%",
+            "ScoreO": "40.8",
+            "Score": 39.4333
+        },
+        "Brawl Ball": {
+            "Winrate": "47.5%",
+            "Pickrate": "0.07%",
+            "ScoreO": "29.9",
+            "Score": 22.237499999999997
+        },
+        "Bounty": {
+            "Winrate": "31.8%",
+            "Pickrate": "0.29%",
+            "ScoreO": "24.9",
+            "Score": 21.124200000000002
+        },
+        "Wipeout": {
+            "Winrate": "32%",
+            "Pickrate": "0.12%",
+            "ScoreO": "21.6",
+            "Score": 16.304000000000002
+        },
+        "Payload": {
+            "Winrate": "25%",
+            "Pickrate": "0.26%",
+            "ScoreO": "20.2",
+            "Score": 15.59
+        }
+    },
+    "Otis": {
+        "Basket Brawl": {
+            "Winrate": "100%",
+            "Pickrate": "2.08%",
+            "ScoreO": "101.6",
+            "Score": 146.2622368113968
+        },
+        "Gem Grab": {
+            "Winrate": "63%",
+            "Pickrate": "1.29%",
+            "ScoreO": "63.6",
+            "Score": 83.99326655120744
+        },
+        "Brawl Ball": {
+            "Winrate": "71.3%",
+            "Pickrate": "0.86%",
+            "ScoreO": "60",
+            "Score": 90.8098
+        },
+        "Heist": {
+            "Winrate": "79%",
+            "Pickrate": "0.16%",
+            "ScoreO": "50.6",
+            "Score": 44.544000000000004
+        },
+        "Hot Zone": {
+            "Winrate": "64%",
+            "Pickrate": "0.42%",
+            "ScoreO": "46.8",
+            "Score": 52.648
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.22%",
+            "ScoreO": "44.4",
+            "Score": 41.501400000000004
+        },
+        "Wipeout": {
+            "Winrate": "53.7%",
+            "Pickrate": "0.15%",
+            "ScoreO": "35.2",
+            "Score": 29.440500000000007
+        },
+        "Showdown": {
+            "Winrate": "40%",
+            "Pickrate": "0.31%",
+            "ScoreO": "30.2",
+            "Score": 27.78
+        },
+        "Knockout": {
+            "Winrate": "37.4%",
+            "Pickrate": "0.16%",
+            "ScoreO": "25.6",
+            "Score": 20.5824
+        },
+        "Bounty": {
+            "Winrate": "37.9%",
+            "Pickrate": "0.08%",
+            "ScoreO": "24.4",
+            "Score": 18.0152
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.2%",
+            "ScoreO": "4",
+            "Score": -1.2000000000000002
+        }
+    },
+    "Frank": {
+        "Basket Brawl": {
+            "Winrate": "43.1%",
+            "Pickrate": "10.63%",
+            "ScoreO": "238.5",
+            "Score": 121.48196577061572
+        },
+        "Payload": {
+            "Winrate": "35.8%",
+            "Pickrate": "4.37%",
+            "ScoreO": "108.9",
+            "Score": 85.35657027322497
+        },
+        "Hot Zone": {
+            "Winrate": "57.8%",
+            "Pickrate": "3.31%",
+            "ScoreO": "100.9",
+            "Score": 105.52532568166916
+        },
+        "Brawl Ball": {
+            "Winrate": "37.4%",
+            "Pickrate": "2.76%",
+            "ScoreO": "77.6",
+            "Score": 73.64356039187176
+        },
+        "Duo Showdown": {
+            "Winrate": "76.9%",
+            "Pickrate": "0.64%",
+            "ScoreO": "59",
+            "Score": 81.05760000000002
+        },
+        "Showdown": {
+            "Winrate": "51.5%",
+            "Pickrate": "1.12%",
+            "ScoreO": "53.3",
+            "Score": 64.8544605592101
+        },
+        "Gem Grab": {
+            "Winrate": "38.7%",
+            "Pickrate": "1.26%",
+            "ScoreO": "48.4",
+            "Score": 51.8042716289016
+        },
+        "Bounty": {
+            "Winrate": "38.5%",
+            "Pickrate": "0.65%",
+            "ScoreO": "36.1",
+            "Score": 39.0275
+        },
+        "Knockout": {
+            "Winrate": "40.1%",
+            "Pickrate": "0.41%",
+            "ScoreO": "32.3",
+            "Score": 31.665100000000002
+        },
+        "Heist": {
+            "Winrate": "39.3%",
+            "Pickrate": "0.34%",
+            "ScoreO": "30.4",
+            "Score": 28.3782
+        },
+        "Wipeout": {
+            "Winrate": "31.9%",
+            "Pickrate": "0.25%",
+            "ScoreO": "24.1",
+            "Score": 20.0325
+        }
+    },
+    "Melodie": {
+        "Heist": {
+            "Winrate": "57.6%",
+            "Pickrate": "12.53%",
+            "ScoreO": "285.2",
+            "Score": 145.20153306723932
+        },
+        "Brawl Ball": {
+            "Winrate": "51.7%",
+            "Pickrate": "2.22%",
+            "ScoreO": "75.4",
+            "Score": 85.63893587652565
+        },
+        "Basket Brawl": {
+            "Winrate": "66.7%",
+            "Pickrate": "1.25%",
+            "ScoreO": "65",
+            "Score": 87.8420265394263
+        },
+        "Duo Showdown": {
+            "Winrate": "63.9%",
+            "Pickrate": "0.59%",
+            "ScoreO": "50.1",
+            "Score": 63.49110000000001
+        },
+        "Hot Zone": {
+            "Winrate": "39.2%",
+            "Pickrate": "1.09%",
+            "ScoreO": "45.3",
+            "Score": 48.10405088723158
+        },
+        "Gem Grab": {
+            "Winrate": "43.4%",
+            "Pickrate": "0.75%",
+            "ScoreO": "41.1",
+            "Score": 48.665
+        },
+        "Payload": {
+            "Winrate": "50%",
+            "Pickrate": "0.52%",
+            "ScoreO": "40.4",
+            "Score": 45.480000000000004
+        },
+        "Showdown": {
+            "Winrate": "37.9%",
+            "Pickrate": "0.65%",
+            "ScoreO": "35.7",
+            "Score": 38.35850000000001
+        },
+        "Bounty": {
+            "Winrate": "33.7%",
+            "Pickrate": "0.23%",
+            "ScoreO": "24.8",
+            "Score": 20.6261
+        },
+        "Knockout": {
+            "Winrate": "29.9%",
+            "Pickrate": "0.13%",
+            "ScoreO": "20.5",
+            "Score": 15.455700000000002
+        },
+        "Wipeout": {
+            "Winrate": "24.7%",
+            "Pickrate": "0.12%",
+            "ScoreO": "17.2",
+            "Score": 12.4204
+        }
+    },
+    "Grom": {
+        "Wipeout": {
+            "Winrate": "65.9%",
+            "Pickrate": "7.53%",
+            "ScoreO": "190.2",
+            "Score": 140.67809125435406
+        },
+        "Bounty": {
+            "Winrate": "48.2%",
+            "Pickrate": "2.45%",
+            "ScoreO": "77.9",
+            "Score": 84.06176073669909
+        },
+        "Knockout": {
+            "Winrate": "44.2%",
+            "Pickrate": "2.5%",
+            "ScoreO": "76.5",
+            "Score": 79.48544195622466
+        },
+        "Duo Showdown": {
+            "Winrate": "100%",
+            "Pickrate": "0.26%",
+            "ScoreO": "65.2",
+            "Score": 67.03999999999999
+        },
+        "Heist": {
+            "Winrate": "54.7%",
+            "Pickrate": "0.62%",
+            "ScoreO": "45.2",
+            "Score": 55.46540000000001
+        },
+        "Showdown": {
+            "Winrate": "60%",
+            "Pickrate": "0.04%",
+            "ScoreO": "36.8",
+            "Score": 26.400000000000002
+        },
+        "Brawl Ball": {
+            "Winrate": "49.3%",
+            "Pickrate": "0.13%",
+            "ScoreO": "32.2",
+            "Score": 25.9899
+        },
+        "Hot Zone": {
+            "Winrate": "23%",
+            "Pickrate": "0.25%",
+            "ScoreO": "18.8",
+            "Score": 14.025000000000002
+        },
+        "Gem Grab": {
+            "Winrate": "8%",
+            "Pickrate": "0.11%",
+            "ScoreO": "7",
+            "Score": 3.508
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.13%",
+            "ScoreO": "2.6",
+            "Score": -0.78
+        }
+    },
+    "Janet": {
+        "Payload": {
+            "Winrate": "80%",
+            "Pickrate": "1.31%",
+            "ScoreO": "74.2",
+            "Score": 106.48001411639181
+        },
+        "Gem Grab": {
+            "Winrate": "56.2%",
+            "Pickrate": "1.29%",
+            "ScoreO": "59.5",
+            "Score": 75.18318655120744
+        },
+        "Bounty": {
+            "Winrate": "63%",
+            "Pickrate": "0.86%",
+            "ScoreO": "55",
+            "Score": 79.638
+        },
+        "Duo Showdown": {
+            "Winrate": "61.5%",
+            "Pickrate": "0.89%",
+            "ScoreO": "54.7",
+            "Score": 79.4685
+        },
+        "Wipeout": {
+            "Winrate": "57.4%",
+            "Pickrate": "0.83%",
+            "ScoreO": "51",
+            "Score": 70.3862
+        },
+        "Brawl Ball": {
+            "Winrate": "67.3%",
+            "Pickrate": "0.51%",
+            "ScoreO": "50.6",
+            "Score": 61.615300000000005
+        },
+        "Showdown": {
+            "Winrate": "48.2%",
+            "Pickrate": "0.71%",
+            "ScoreO": "43.1",
+            "Score": 52.66420000000001
+        },
+        "Hot Zone": {
+            "Winrate": "54.1%",
+            "Pickrate": "0.34%",
+            "ScoreO": "39.3",
+            "Score": 39.833400000000005
+        },
+        "Knockout": {
+            "Winrate": "46.4%",
+            "Pickrate": "0.55%",
+            "ScoreO": "38.9",
+            "Score": 43.332
+        },
+        "Heist": {
+            "Winrate": "12.5%",
+            "Pickrate": "0.01%",
+            "ScoreO": "7.7",
+            "Score": 5.077500000000001
+        }
+    },
+    "Draco": {
+        "Payload": {
+            "Winrate": "66.7%",
+            "Pickrate": "1.37%",
+            "ScoreO": "67.4",
+            "Score": 90.59204219520102
+        },
+        "Hot Zone": {
+            "Winrate": "66.2%",
+            "Pickrate": "1.33%",
+            "ScoreO": "66.3",
+            "Score": 89.05528826700989
+        },
+        "Gem Grab": {
+            "Winrate": "69.1%",
+            "Pickrate": "0.61%",
+            "ScoreO": "53.6",
+            "Score": 70.3461
+        },
+        "Brawl Ball": {
+            "Winrate": "69.2%",
+            "Pickrate": "0.4%",
+            "ScoreO": "49.5",
+            "Score": 55.72800000000001
+        },
+        "Knockout": {
+            "Winrate": "70.6%",
+            "Pickrate": "0.28%",
+            "ScoreO": "47.9",
+            "Score": 48.3048
+        },
+        "Duo Showdown": {
+            "Winrate": "65.4%",
+            "Pickrate": "0.26%",
+            "ScoreO": "44.4",
+            "Score": 43.30440000000001
+        },
+        "Showdown": {
+            "Winrate": "53.1%",
+            "Pickrate": "0.18%",
+            "ScoreO": "35.4",
+            "Score": 30.673800000000004
+        },
+        "Heist": {
+            "Winrate": "28.8%",
+            "Pickrate": "0.1%",
+            "ScoreO": "19.3",
+            "Score": 14.088000000000003
+        },
+        "Bounty": {
+            "Winrate": "29.6%",
+            "Pickrate": "0.07%",
+            "ScoreO": "19.2",
+            "Score": 13.699200000000003
+        },
+        "Wipeout": {
+            "Winrate": "27.3%",
+            "Pickrate": "0.05%",
+            "ScoreO": "17.4",
+            "Score": 12.121500000000001
+        }
+    },
+    "Bull": {
+        "Showdown": {
+            "Winrate": "43%",
+            "Pickrate": "1.89%",
+            "ScoreO": "63.6",
+            "Score": 69.53930487214654
+        },
+        "Brawl Ball": {
+            "Winrate": "57.7%",
+            "Pickrate": "0.86%",
+            "ScoreO": "51.8",
+            "Score": 72.5042
+        },
+        "Duo Showdown": {
+            "Winrate": "65.2%",
+            "Pickrate": "0.47%",
+            "ScoreO": "48.5",
+            "Score": 56.9684
+        },
+        "Bounty": {
+            "Winrate": "42.7%",
+            "Pickrate": "0.93%",
+            "ScoreO": "44.2",
+            "Score": 55.18210000000001
+        },
+        "Heist": {
+            "Winrate": "52.2%",
+            "Pickrate": "0.61%",
+            "ScoreO": "43.5",
+            "Score": 52.2462
+        },
+        "Gem Grab": {
+            "Winrate": "39.8%",
+            "Pickrate": "0.24%",
+            "ScoreO": "28.7",
+            "Score": 24.9872
+        },
+        "Knockout": {
+            "Winrate": "36.2%",
+            "Pickrate": "0.14%",
+            "ScoreO": "24.5",
+            "Score": 19.214800000000004
+        },
+        "Hot Zone": {
+            "Winrate": "16.7%",
+            "Pickrate": "0.08%",
+            "ScoreO": "11.6",
+            "Score": 7.669599999999999
+        },
+        "Wipeout": {
+            "Winrate": "12.8%",
+            "Pickrate": "0.06%",
+            "ScoreO": "8.9",
+            "Score": 5.604800000000001
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "Berry": {
+        "Wipeout": {
+            "Winrate": "69.1%",
+            "Pickrate": "4.27%",
+            "ScoreO": "126.9",
+            "Score": 127.80557481721598
+        },
+        "Basket Brawl": {
+            "Winrate": "56.3%",
+            "Pickrate": "3.33%",
+            "ScoreO": "100.4",
+            "Score": 103.76264911977057
+        },
+        "Hot Zone": {
+            "Winrate": "58%",
+            "Pickrate": "2.94%",
+            "ScoreO": "93.6",
+            "Score": 102.2282874405177
+        },
+        "Payload": {
+            "Winrate": "44.1%",
+            "Pickrate": "2.22%",
+            "ScoreO": "70.9",
+            "Score": 75.79237587652565
+        },
+        "Duo Showdown": {
+            "Winrate": "80%",
+            "Pickrate": "0.38%",
+            "ScoreO": "55.6",
+            "Score": 63.16
+        },
+        "Heist": {
+            "Winrate": "45.1%",
+            "Pickrate": "1.03%",
+            "ScoreO": "47.6",
+            "Score": 54.04952406724634
+        },
+        "Knockout": {
+            "Winrate": "58.7%",
+            "Pickrate": "0.37%",
+            "ScoreO": "42.6",
+            "Score": 45.15090000000001
+        },
+        "Gem Grab": {
+            "Winrate": "50.5%",
+            "Pickrate": "0.43%",
+            "ScoreO": "38.9",
+            "Score": 41.5065
+        },
+        "Brawl Ball": {
+            "Winrate": "53.5%",
+            "Pickrate": "0.32%",
+            "ScoreO": "38.5",
+            "Score": 38.31200000000001
+        },
+        "Showdown": {
+            "Winrate": "41.3%",
+            "Pickrate": "0.23%",
+            "ScoreO": "29.4",
+            "Score": 25.588900000000002
+        },
+        "Bounty": {
+            "Winrate": "31.5%",
+            "Pickrate": "0.24%",
+            "ScoreO": "23.7",
+            "Score": 19.476000000000003
+        }
+    },
+    "Cordelius": {
+        "Showdown": {
+            "Winrate": "47.6%",
+            "Pickrate": "2.37%",
+            "ScoreO": "76",
+            "Score": 82.2884586544112
+        },
+        "Duo Showdown": {
+            "Winrate": "59.7%",
+            "Pickrate": "1.38%",
+            "ScoreO": "63.4",
+            "Score": 81.7410249750734
+        },
+        "Brawl Ball": {
+            "Winrate": "63.1%",
+            "Pickrate": "0.91%",
+            "ScoreO": "56.1",
+            "Score": 82.94310000000002
+        },
+        "Knockout": {
+            "Winrate": "68.9%",
+            "Pickrate": "0.67%",
+            "ScoreO": "54.7",
+            "Score": 74.31930000000001
+        },
+        "Hot Zone": {
+            "Winrate": "58.4%",
+            "Pickrate": "0.91%",
+            "ScoreO": "53.3",
+            "Score": 76.3584
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "0.83%",
+            "ScoreO": "46.6",
+            "Score": 60.67
+        },
+        "Bounty": {
+            "Winrate": "48.2%",
+            "Pickrate": "0.22%",
+            "ScoreO": "33.3",
+            "Score": 29.6244
+        },
+        "Gem Grab": {
+            "Winrate": "39.2%",
+            "Pickrate": "0.4%",
+            "ScoreO": "31.5",
+            "Score": 30.528000000000006
+        },
+        "Heist": {
+            "Winrate": "43.9%",
+            "Pickrate": "0.22%",
+            "ScoreO": "30.7",
+            "Score": 26.863799999999998
+        },
+        "Wipeout": {
+            "Winrate": "38.5%",
+            "Pickrate": "0.08%",
+            "ScoreO": "24.7",
+            "Score": 18.308
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.13%",
+            "ScoreO": "2.6",
+            "Score": -0.78
+        }
+    },
+    "El-Primo": {
+        "Brawl Ball": {
+            "Winrate": "48.5%",
+            "Pickrate": "1.47%",
+            "ScoreO": "58.5",
+            "Score": 69.12567202371935
+        },
+        "Showdown": {
+            "Winrate": "43%",
+            "Pickrate": "1.46%",
+            "ScoreO": "55",
+            "Score": 61.795093071607354
+        },
+        "Knockout": {
+            "Winrate": "64.4%",
+            "Pickrate": "0.68%",
+            "ScoreO": "52.3",
+            "Score": 69.85120000000002
+        },
+        "Hot Zone": {
+            "Winrate": "48.5%",
+            "Pickrate": "0.5%",
+            "ScoreO": "39.1",
+            "Score": 43.075
+        },
+        "Gem Grab": {
+            "Winrate": "43.9%",
+            "Pickrate": "0.36%",
+            "ScoreO": "33.6",
+            "Score": 32.7844
+        },
+        "Bounty": {
+            "Winrate": "38.5%",
+            "Pickrate": "0.41%",
+            "ScoreO": "31.3",
+            "Score": 30.3035
+        },
+        "Heist": {
+            "Winrate": "32.5%",
+            "Pickrate": "0.13%",
+            "ScoreO": "22.1",
+            "Score": 16.8675
+        },
+        "Wipeout": {
+            "Winrate": "19.1%",
+            "Pickrate": "0.1%",
+            "ScoreO": "13.4",
+            "Score": 9.141000000000002
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.63%",
+            "ScoreO": "12.6",
+            "Score": -3.7800000000000002
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.52%",
+            "ScoreO": "10.4",
+            "Score": -3.12
+        },
+        "Duo Showdown": {
+            "Winrate": "0%",
+            "Pickrate": "0.19%",
+            "ScoreO": "3.8",
+            "Score": -1.1400000000000001
+        }
+    },
+    "Rosa": {
+        "Bounty": {
+            "Winrate": "73.6%",
+            "Pickrate": "1.3%",
+            "ScoreO": "70.2",
+            "Score": 97.95828793402474
+        },
+        "Duo Showdown": {
+            "Winrate": "74.1%",
+            "Pickrate": "0.58%",
+            "ScoreO": "56",
+            "Score": 73.4358
+        },
+        "Brawl Ball": {
+            "Winrate": "70.9%",
+            "Pickrate": "0.44%",
+            "ScoreO": "51.4",
+            "Score": 60.0356
+        },
+        "Knockout": {
+            "Winrate": "67.5%",
+            "Pickrate": "0.32%",
+            "ScoreO": "46.9",
+            "Score": 48.84
+        },
+        "Hot Zone": {
+            "Winrate": "59.2%",
+            "Pickrate": "0.42%",
+            "ScoreO": "43.9",
+            "Score": 48.510400000000004
+        },
+        "Showdown": {
+            "Winrate": "54.8%",
+            "Pickrate": "0.34%",
+            "ScoreO": "39.7",
+            "Score": 40.37520000000001
+        },
+        "Wipeout": {
+            "Winrate": "58.6%",
+            "Pickrate": "0.04%",
+            "ScoreO": "36",
+            "Score": 25.778400000000005
+        },
+        "Gem Grab": {
+            "Winrate": "47.1%",
+            "Pickrate": "0.36%",
+            "ScoreO": "35.4",
+            "Score": 35.3316
+        },
+        "Heist": {
+            "Winrate": "12.5%",
+            "Pickrate": "0.01%",
+            "ScoreO": "7.7",
+            "Score": 5.077500000000001
+        }
+    },
+    "Griff": {
+        "Basket Brawl": {
+            "Winrate": "73.1%",
+            "Pickrate": "5.42%",
+            "ScoreO": "152.3",
+            "Score": 140.14243446354664
+        },
+        "Hot Zone": {
+            "Winrate": "55.6%",
+            "Pickrate": "0.98%",
+            "ScoreO": "53",
+            "Score": 76.2968
+        },
+        "Brawl Ball": {
+            "Winrate": "54.1%",
+            "Pickrate": "0.9%",
+            "ScoreO": "50.5",
+            "Score": 69.799
+        },
+        "Payload": {
+            "Winrate": "47.1%",
+            "Pickrate": "1.11%",
+            "ScoreO": "50.4",
+            "Score": 58.88476045972729
+        },
+        "Duo Showdown": {
+            "Winrate": "71.4%",
+            "Pickrate": "0.36%",
+            "ScoreO": "50.1",
+            "Score": 54.674400000000006
+        },
+        "Gem Grab": {
+            "Winrate": "54.6%",
+            "Pickrate": "0.53%",
+            "ScoreO": "43.4",
+            "Score": 50.49180000000001
+        },
+        "Heist": {
+            "Winrate": "52.9%",
+            "Pickrate": "0.32%",
+            "ScoreO": "38.1",
+            "Score": 37.860800000000005
+        },
+        "Showdown": {
+            "Winrate": "46.8%",
+            "Pickrate": "0.34%",
+            "ScoreO": "34.9",
+            "Score": 34.1832
+        },
+        "Knockout": {
+            "Winrate": "50%",
+            "Pickrate": "0.12%",
+            "ScoreO": "32.4",
+            "Score": 25.880000000000003
+        },
+        "Bounty": {
+            "Winrate": "43.8%",
+            "Pickrate": "0.19%",
+            "ScoreO": "30.1",
+            "Score": 25.5342
+        },
+        "Wipeout": {
+            "Winrate": "24.4%",
+            "Pickrate": "0.07%",
+            "ScoreO": "16.1",
+            "Score": 11.2188
+        }
+    },
+    "Chuck": {
+        "Heist": {
+            "Winrate": "51.6%",
+            "Pickrate": "9.73%",
+            "ScoreO": "225.6",
+            "Score": 129.84057688593742
+        },
+        "Hot Zone": {
+            "Winrate": "39.9%",
+            "Pickrate": "1.5%",
+            "ScoreO": "54",
+            "Score": 58.589593243244934
+        },
+        "Duo Showdown": {
+            "Winrate": "67.9%",
+            "Pickrate": "0.54%",
+            "ScoreO": "51.6",
+            "Score": 64.2526
+        },
+        "Bounty": {
+            "Winrate": "68.1%",
+            "Pickrate": "0.12%",
+            "ScoreO": "43.3",
+            "Score": 35.5092
+        },
+        "Knockout": {
+            "Winrate": "64.6%",
+            "Pickrate": "0.15%",
+            "ScoreO": "41.7",
+            "Score": 35.599000000000004
+        },
+        "Gem Grab": {
+            "Winrate": "58.4%",
+            "Pickrate": "0.24%",
+            "ScoreO": "39.9",
+            "Score": 37.3376
+        },
+        "Showdown": {
+            "Winrate": "44.4%",
+            "Pickrate": "0.07%",
+            "ScoreO": "28.1",
+            "Score": 20.7588
+        },
+        "Brawl Ball": {
+            "Winrate": "25.7%",
+            "Pickrate": "0.02%",
+            "ScoreO": "15.8",
+            "Score": 10.725400000000002
+        },
+        "Wipeout": {
+            "Winrate": "18.2%",
+            "Pickrate": "0.24%",
+            "ScoreO": "15.7",
+            "Score": 10.6448
+        }
+    },
+    "Stu": {
+        "Payload": {
+            "Winrate": "73.1%",
+            "Pickrate": "6.07%",
+            "ScoreO": "165.3",
+            "Score": 143.54031815214222
+        },
+        "Basket Brawl": {
+            "Winrate": "42.9%",
+            "Pickrate": "5.83%",
+            "ScoreO": "142.3",
+            "Score": 103.20295001087203
+        },
+        "Brawl Ball": {
+            "Winrate": "53.9%",
+            "Pickrate": "4.66%",
+            "ScoreO": "125.5",
+            "Score": 110.73450344412664
+        },
+        "Gem Grab": {
+            "Winrate": "55%",
+            "Pickrate": "4.27%",
+            "ScoreO": "118.4",
+            "Score": 109.537614817216
+        },
+        "Hot Zone": {
+            "Winrate": "62.5%",
+            "Pickrate": "4%",
+            "ScoreO": "117.5",
+            "Score": 117.29503083359673
+        },
+        "Showdown": {
+            "Winrate": "42.5%",
+            "Pickrate": "3.46%",
+            "ScoreO": "94.7",
+            "Score": 87.03225767208899
+        },
+        "Duo Showdown": {
+            "Winrate": "68%",
+            "Pickrate": "2.05%",
+            "ScoreO": "81.8",
+            "Score": 104.36719379450952
+        },
+        "Bounty": {
+            "Winrate": "38.1%",
+            "Pickrate": "0.6%",
+            "ScoreO": "34.8",
+            "Score": 36.786
+        },
+        "Knockout": {
+            "Winrate": "19.5%",
+            "Pickrate": "0.77%",
+            "ScoreO": "27.1",
+            "Score": 19.6965
+        },
+        "Wipeout": {
+            "Winrate": "14.7%",
+            "Pickrate": "0.41%",
+            "ScoreO": "17",
+            "Score": 10.0497
+        },
+        "Heist": {
+            "Winrate": "4.9%",
+            "Pickrate": "0.07%",
+            "ScoreO": "4.3",
+            "Score": 1.9173000000000002
+        }
+    },
+    "Mr-P": {
+        "Bounty": {
+            "Winrate": "69.7%",
+            "Pickrate": "1.03%",
+            "ScoreO": "62.4",
+            "Score": 85.92128406724635
+        },
+        "Knockout": {
+            "Winrate": "62%",
+            "Pickrate": "1.23%",
+            "ScoreO": "61.8",
+            "Score": 81.26882508152978
+        },
+        "Wipeout": {
+            "Winrate": "62.5%",
+            "Pickrate": "0.75%",
+            "ScoreO": "52.5",
+            "Score": 72.0625
+        },
+        "Brawl Ball": {
+            "Winrate": "69.2%",
+            "Pickrate": "0.12%",
+            "ScoreO": "43.9",
+            "Score": 36.09440000000001
+        },
+        "Duo Showdown": {
+            "Winrate": "58.8%",
+            "Pickrate": "0.34%",
+            "ScoreO": "42.1",
+            "Score": 43.4712
+        },
+        "Gem Grab": {
+            "Winrate": "53.5%",
+            "Pickrate": "0.27%",
+            "ScoreO": "37.5",
+            "Score": 35.6695
+        },
+        "Hot Zone": {
+            "Winrate": "30%",
+            "Pickrate": "0.13%",
+            "ScoreO": "20.6",
+            "Score": 15.510000000000002
+        },
+        "Showdown": {
+            "Winrate": "26.1%",
+            "Pickrate": "0.08%",
+            "ScoreO": "17.3",
+            "Score": 12.256800000000002
+        },
+        "Heist": {
+            "Winrate": "0%",
+            "Pickrate": "0.02%",
+            "ScoreO": "0.4",
+            "Score": -0.12
+        }
+    },
+    "Gene": {
+        "Knockout": {
+            "Winrate": "61.2%",
+            "Pickrate": "3.89%",
+            "ScoreO": "114.5",
+            "Score": 114.77419472891066
+        },
+        "Bounty": {
+            "Winrate": "56.2%",
+            "Pickrate": "3.07%",
+            "ScoreO": "95.1",
+            "Score": 101.19424684797318
+        },
+        "Gem Grab": {
+            "Winrate": "51.3%",
+            "Pickrate": "2.59%",
+            "ScoreO": "82.6",
+            "Score": 89.7452162713434
+        },
+        "Wipeout": {
+            "Winrate": "65.3%",
+            "Pickrate": "1.39%",
+            "ScoreO": "67",
+            "Score": 89.21299241427802
+        },
+        "Duo Showdown": {
+            "Winrate": "59%",
+            "Pickrate": "0.89%",
+            "ScoreO": "53.2",
+            "Score": 76.021
+        },
+        "Showdown": {
+            "Winrate": "38.7%",
+            "Pickrate": "0.82%",
+            "ScoreO": "39.6",
+            "Score": 45.467400000000005
+        },
+        "Brawl Ball": {
+            "Winrate": "53.6%",
+            "Pickrate": "0.13%",
+            "ScoreO": "34.7",
+            "Score": 28.324800000000003
+        },
+        "Hot Zone": {
+            "Winrate": "52.6%",
+            "Pickrate": "0.05%",
+            "ScoreO": "32.6",
+            "Score": 23.633000000000003
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        },
+        "Heist": {
+            "Winrate": "0%",
+            "Pickrate": "0.01%",
+            "ScoreO": "0.2",
+            "Score": -0.06
+        }
+    },
+    "Carl": {
+        "Heist": {
+            "Winrate": "54.1%",
+            "Pickrate": "3.09%",
+            "ScoreO": "94.2",
+            "Score": 98.66829272728963
+        },
+        "Basket Brawl": {
+            "Winrate": "100%",
+            "Pickrate": "0.83%",
+            "ScoreO": "76.6",
+            "Score": 126.32000000000002
+        },
+        "Duo Showdown": {
+            "Winrate": "75.5%",
+            "Pickrate": "0.87%",
+            "ScoreO": "62.7",
+            "Score": 97.2335
+        },
+        "Gem Grab": {
+            "Winrate": "55.9%",
+            "Pickrate": "1.44%",
+            "ScoreO": "62.4",
+            "Score": 78.09453340763729
+        },
+        "Brawl Ball": {
+            "Winrate": "63.3%",
+            "Pickrate": "0.83%",
+            "ScoreO": "54.6",
+            "Score": 78.13289999999999
+        },
+        "Hot Zone": {
+            "Winrate": "55.5%",
+            "Pickrate": "0.86%",
+            "ScoreO": "50.5",
+            "Score": 69.543
+        },
+        "Knockout": {
+            "Winrate": "52.4%",
+            "Pickrate": "0.93%",
+            "ScoreO": "50",
+            "Score": 68.9852
+        },
+        "Bounty": {
+            "Winrate": "43.6%",
+            "Pickrate": "0.72%",
+            "ScoreO": "40.6",
+            "Score": 47.6512
+        },
+        "Payload": {
+            "Winrate": "44.4%",
+            "Pickrate": "0.59%",
+            "ScoreO": "38.5",
+            "Score": 43.0356
+        },
+        "Showdown": {
+            "Winrate": "44.6%",
+            "Pickrate": "0.57%",
+            "ScoreO": "38.2",
+            "Score": 42.3842
+        },
+        "Wipeout": {
+            "Winrate": "41.5%",
+            "Pickrate": "0.24%",
+            "ScoreO": "29.7",
+            "Score": 26.116
+        }
+    },
+    "Max": {
+        "Brawl Ball": {
+            "Winrate": "62.3%",
+            "Pickrate": "2.1%",
+            "ScoreO": "79.4",
+            "Score": 97.70520034188132
+        },
+        "Gem Grab": {
+            "Winrate": "61.8%",
+            "Pickrate": "1.41%",
+            "ScoreO": "65.3",
+            "Score": 85.1069711317023
+        },
+        "Duo Showdown": {
+            "Winrate": "58.7%",
+            "Pickrate": "1.03%",
+            "ScoreO": "55.8",
+            "Score": 71.66968406724634
+        },
+        "Bounty": {
+            "Winrate": "51.9%",
+            "Pickrate": "1.12%",
+            "ScoreO": "53.5",
+            "Score": 65.3727005592101
+        },
+        "Showdown": {
+            "Winrate": "44.2%",
+            "Pickrate": "0.78%",
+            "ScoreO": "42.1",
+            "Score": 50.92360000000001
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "0.42%",
+            "ScoreO": "38.4",
+            "Score": 40.58
+        },
+        "Hot Zone": {
+            "Winrate": "45.8%",
+            "Pickrate": "0.51%",
+            "ScoreO": "37.7",
+            "Score": 40.9538
+        },
+        "Knockout": {
+            "Winrate": "38.6%",
+            "Pickrate": "0.34%",
+            "ScoreO": "30",
+            "Score": 27.836400000000005
+        },
+        "Wipeout": {
+            "Winrate": "27.3%",
+            "Pickrate": "0.23%",
+            "ScoreO": "21",
+            "Score": 16.446900000000003
+        },
+        "Heist": {
+            "Winrate": "30%",
+            "Pickrate": "0.08%",
+            "ScoreO": "19.6",
+            "Score": 14.16
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.39%",
+            "ScoreO": "7.8",
+            "Score": -2.34
+        }
+    },
+    "Sprout": {
+        "Knockout": {
+            "Winrate": "58.5%",
+            "Pickrate": "1.93%",
+            "ScoreO": "73.7",
+            "Score": 90.24940008750383
+        },
+        "Bounty": {
+            "Winrate": "62.6%",
+            "Pickrate": "1.61%",
+            "ScoreO": "69.7",
+            "Score": 90.12278536989116
+        },
+        "Wipeout": {
+            "Winrate": "75%",
+            "Pickrate": "0.96%",
+            "ScoreO": "64.2",
+            "Score": 103.44
+        },
+        "Duo Showdown": {
+            "Winrate": "46.1%",
+            "Pickrate": "0.92%",
+            "ScoreO": "46",
+            "Score": 59.573200000000014
+        },
+        "Gem Grab": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.28%",
+            "ScoreO": "45.6",
+            "Score": 45.54360000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "70.7%",
+            "Pickrate": "0.12%",
+            "ScoreO": "44.8",
+            "Score": 36.8924
+        },
+        "Showdown": {
+            "Winrate": "35.4%",
+            "Pickrate": "0.3%",
+            "ScoreO": "27.2",
+            "Score": 24.042
+        },
+        "Hot Zone": {
+            "Winrate": "32.3%",
+            "Pickrate": "0.24%",
+            "ScoreO": "24.2",
+            "Score": 20.007199999999997
+        },
+        "Heist": {
+            "Winrate": "24.8%",
+            "Pickrate": "0.18%",
+            "ScoreO": "18.5",
+            "Score": 13.750400000000003
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        }
+    },
+    "Buzz": {
+        "Showdown": {
+            "Winrate": "40.2%",
+            "Pickrate": "7.1%",
+            "ScoreO": "166.1",
+            "Score": 105.61716352141809
+        },
+        "Duo Showdown": {
+            "Winrate": "66.1%",
+            "Pickrate": "4.38%",
+            "ScoreO": "127.2",
+            "Score": 124.68182173165064
+        },
+        "Basket Brawl": {
+            "Winrate": "75%",
+            "Pickrate": "2.5%",
+            "ScoreO": "95",
+            "Score": 119.38992195622465
+        },
+        "Bounty": {
+            "Winrate": "40.6%",
+            "Pickrate": "2.81%",
+            "ScoreO": "80.6",
+            "Score": 78.32809450036964
+        },
+        "Brawl Ball": {
+            "Winrate": "39%",
+            "Pickrate": "1.72%",
+            "ScoreO": "57.8",
+            "Score": 61.52932872476086
+        },
+        "Knockout": {
+            "Winrate": "38.5%",
+            "Pickrate": "0.96%",
+            "ScoreO": "42.3",
+            "Score": 50.29600000000001
+        },
+        "Heist": {
+            "Winrate": "37.9%",
+            "Pickrate": "0.75%",
+            "ScoreO": "37.7",
+            "Score": 41.927499999999995
+        },
+        "Gem Grab": {
+            "Winrate": "28.1%",
+            "Pickrate": "0.61%",
+            "ScoreO": "29.1",
+            "Score": 26.435100000000006
+        },
+        "Hot Zone": {
+            "Winrate": "28.8%",
+            "Pickrate": "0.59%",
+            "ScoreO": "29.1",
+            "Score": 26.671200000000002
+        },
+        "Wipeout": {
+            "Winrate": "18.6%",
+            "Pickrate": "0.22%",
+            "ScoreO": "15.5",
+            "Score": 10.621200000000002
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.33%",
+            "ScoreO": "6.6",
+            "Score": -1.98
+        }
+    },
+    "Mandy": {
+        "Wipeout": {
+            "Winrate": "58.7%",
+            "Pickrate": "13.09%",
+            "ScoreO": "297",
+            "Score": 147.93837739765428
+        },
+        "Knockout": {
+            "Winrate": "50.2%",
+            "Pickrate": "3.15%",
+            "ScoreO": "93.1",
+            "Score": 94.19239358512627
+        },
+        "Bounty": {
+            "Winrate": "52.1%",
+            "Pickrate": "3.03%",
+            "ScoreO": "91.9",
+            "Score": 95.48883858563833
+        },
+        "Duo Showdown": {
+            "Winrate": "75%",
+            "Pickrate": "0.77%",
+            "ScoreO": "60.4",
+            "Score": 88.905
+        },
+        "Brawl Ball": {
+            "Winrate": "55.2%",
+            "Pickrate": "0.53%",
+            "ScoreO": "43.7",
+            "Score": 51.08160000000001
+        },
+        "Showdown": {
+            "Winrate": "38.7%",
+            "Pickrate": "0.34%",
+            "ScoreO": "30",
+            "Score": 27.913800000000002
+        },
+        "Gem Grab": {
+            "Winrate": "41%",
+            "Pickrate": "0.16%",
+            "ScoreO": "27.8",
+            "Score": 22.656000000000002
+        },
+        "Heist": {
+            "Winrate": "30.7%",
+            "Pickrate": "0.46%",
+            "ScoreO": "27.6",
+            "Score": 25.0542
+        },
+        "Hot Zone": {
+            "Winrate": "14.8%",
+            "Pickrate": "0.07%",
+            "ScoreO": "10.3",
+            "Score": 6.6396000000000015
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "Piper": {
+        "Bounty": {
+            "Winrate": "47.1%",
+            "Pickrate": "11.19%",
+            "ScoreO": "252.1",
+            "Score": 128.204575669715
+        },
+        "Knockout": {
+            "Winrate": "35.5%",
+            "Pickrate": "7.43%",
+            "ScoreO": "169.9",
+            "Score": 100.89077576189004
+        },
+        "Wipeout": {
+            "Winrate": "31.9%",
+            "Pickrate": "6.49%",
+            "ScoreO": "148.9",
+            "Score": 92.16871592147996
+        },
+        "Duo Showdown": {
+            "Winrate": "68.5%",
+            "Pickrate": "4.65%",
+            "ScoreO": "134.1",
+            "Score": 129.58581658797794
+        },
+        "Heist": {
+            "Winrate": "46.1%",
+            "Pickrate": "3.13%",
+            "ScoreO": "90.2",
+            "Score": 88.68935013656187
+        },
+        "Gem Grab": {
+            "Winrate": "46.7%",
+            "Pickrate": "2.99%",
+            "ScoreO": "87.8",
+            "Score": 88.09392162207786
+        },
+        "Brawl Ball": {
+            "Winrate": "57.4%",
+            "Pickrate": "1.8%",
+            "ScoreO": "70.5",
+            "Score": 86.73223994706358
+        },
+        "Showdown": {
+            "Winrate": "35.3%",
+            "Pickrate": "2.17%",
+            "ScoreO": "64.6",
+            "Score": 63.707695026571045
+        },
+        "Hot Zone": {
+            "Winrate": "46.4%",
+            "Pickrate": "0.68%",
+            "ScoreO": "41.5",
+            "Score": 49.1872
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.2%",
+            "ScoreO": "4",
+            "Score": -1.2000000000000002
+        }
+    },
+    "Tara": {
+        "Bounty": {
+            "Winrate": "69.7%",
+            "Pickrate": "2.47%",
+            "ScoreO": "91.2",
+            "Score": 112.16106451919659
+        },
+        "Gem Grab": {
+            "Winrate": "53.2%",
+            "Pickrate": "2.64%",
+            "ScoreO": "84.7",
+            "Score": 92.78048751474675
+        },
+        "Duo Showdown": {
+            "Winrate": "74.7%",
+            "Pickrate": "1.28%",
+            "ScoreO": "70.4",
+            "Score": 98.91832233794578
+        },
+        "Brawl Ball": {
+            "Winrate": "54.5%",
+            "Pickrate": "1.12%",
+            "ScoreO": "55.1",
+            "Score": 68.7412605592101
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "0.83%",
+            "ScoreO": "46.6",
+            "Score": 60.67
+        },
+        "Wipeout": {
+            "Winrate": "58.3%",
+            "Pickrate": "0.41%",
+            "ScoreO": "43.2",
+            "Score": 47.1533
+        },
+        "Knockout": {
+            "Winrate": "53.8%",
+            "Pickrate": "0.39%",
+            "ScoreO": "40.1",
+            "Score": 42.2602
+        },
+        "Payload": {
+            "Winrate": "27.3%",
+            "Pickrate": "0.72%",
+            "ScoreO": "30.8",
+            "Score": 28.221600000000002
+        },
+        "Showdown": {
+            "Winrate": "32.3%",
+            "Pickrate": "0.36%",
+            "ScoreO": "26.6",
+            "Score": 23.5508
+        },
+        "Heist": {
+            "Winrate": "40.3%",
+            "Pickrate": "0.11%",
+            "ScoreO": "26.4",
+            "Score": 20.3363
+        },
+        "Hot Zone": {
+            "Winrate": "28%",
+            "Pickrate": "0.46%",
+            "ScoreO": "26",
+            "Score": 22.608000000000004
+        }
+    },
+    "Crow": {
+        "Heist": {
+            "Winrate": "43.7%",
+            "Pickrate": "2.21%",
+            "ScoreO": "70.4",
+            "Score": 75.13869546588985
+        },
+        "Gem Grab": {
+            "Winrate": "35.4%",
+            "Pickrate": "1.4%",
+            "ScoreO": "49.3",
+            "Score": 50.68960709863639
+        },
+        "Duo Showdown": {
+            "Winrate": "45%",
+            "Pickrate": "0.81%",
+            "ScoreO": "43.2",
+            "Score": 53.23500000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "42.5%",
+            "Pickrate": "0.83%",
+            "ScoreO": "42.1",
+            "Score": 50.822500000000005
+        },
+        "Hot Zone": {
+            "Winrate": "44.3%",
+            "Pickrate": "0.6%",
+            "ScoreO": "38.6",
+            "Score": 43.358
+        },
+        "Knockout": {
+            "Winrate": "34.3%",
+            "Pickrate": "0.45%",
+            "ScoreO": "29.6",
+            "Score": 27.9985
+        },
+        "Payload": {
+            "Winrate": "20%",
+            "Pickrate": "0.65%",
+            "ScoreO": "25",
+            "Score": 18.4
+        },
+        "Showdown": {
+            "Winrate": "25.8%",
+            "Pickrate": "0.47%",
+            "ScoreO": "24.9",
+            "Score": 20.8386
+        },
+        "Wipeout": {
+            "Winrate": "21.7%",
+            "Pickrate": "0.41%",
+            "ScoreO": "21.2",
+            "Score": 16.0067
+        },
+        "Bounty": {
+            "Winrate": "25.9%",
+            "Pickrate": "0.22%",
+            "ScoreO": "19.9",
+            "Score": 15.3078
+        }
+    },
+    "Spike": {
+        "Payload": {
+            "Winrate": "62.5%",
+            "Pickrate": "3.66%",
+            "ScoreO": "110.7",
+            "Score": 114.63009442239826
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "1.03%",
+            "ScoreO": "60.6",
+            "Score": 82.03448406724634
+        },
+        "Gem Grab": {
+            "Winrate": "50.6%",
+            "Pickrate": "1.45%",
+            "ScoreO": "59.4",
+            "Score": 71.4354666929745
+        },
+        "Brawl Ball": {
+            "Winrate": "52.5%",
+            "Pickrate": "1.11%",
+            "ScoreO": "53.7",
+            "Score": 65.88100045972729
+        },
+        "Hot Zone": {
+            "Winrate": "42.5%",
+            "Pickrate": "1.2%",
+            "ScoreO": "49.5",
+            "Score": 55.26384670381864
+        },
+        "Showdown": {
+            "Winrate": "31.5%",
+            "Pickrate": "1.25%",
+            "ScoreO": "43.9",
+            "Score": 42.2369065394263
+        },
+        "Heist": {
+            "Winrate": "38.2%",
+            "Pickrate": "0.93%",
+            "ScoreO": "41.5",
+            "Score": 48.77860000000001
+        },
+        "Bounty": {
+            "Winrate": "46.7%",
+            "Pickrate": "0.61%",
+            "ScoreO": "40.2",
+            "Score": 46.35570000000001
+        },
+        "Knockout": {
+            "Winrate": "28.5%",
+            "Pickrate": "0.85%",
+            "ScoreO": "34.1",
+            "Score": 32.947500000000005
+        },
+        "Wipeout": {
+            "Winrate": "15.7%",
+            "Pickrate": "0.47%",
+            "ScoreO": "18.8",
+            "Score": 11.5769
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.63%",
+            "ScoreO": "12.6",
+            "Score": -3.7800000000000002
+        }
+    },
+    "Shelly": {
+        "Showdown": {
+            "Winrate": "45%",
+            "Pickrate": "7.25%",
+            "ScoreO": "172",
+            "Score": 112.46324406599751
+        },
+        "Duo Showdown": {
+            "Winrate": "67.3%",
+            "Pickrate": "3.18%",
+            "ScoreO": "104",
+            "Score": 116.63151590376258
+        },
+        "Bounty": {
+            "Winrate": "47.8%",
+            "Pickrate": "2.92%",
+            "ScoreO": "87.1",
+            "Score": 88.80838848840571
+        },
+        "Basket Brawl": {
+            "Winrate": "75%",
+            "Pickrate": "0.83%",
+            "ScoreO": "61.6",
+            "Score": 93.495
+        },
+        "Brawl Ball": {
+            "Winrate": "48.1%",
+            "Pickrate": "0.94%",
+            "ScoreO": "47.6",
+            "Score": 63.33540000000001
+        },
+        "Knockout": {
+            "Winrate": "34.6%",
+            "Pickrate": "0.59%",
+            "ScoreO": "32.5",
+            "Score": 32.75540000000001
+        },
+        "Hot Zone": {
+            "Winrate": "39.3%",
+            "Pickrate": "0.16%",
+            "ScoreO": "26.8",
+            "Score": 21.6768
+        },
+        "Gem Grab": {
+            "Winrate": "31%",
+            "Pickrate": "0.36%",
+            "ScoreO": "25.8",
+            "Score": 22.516000000000002
+        },
+        "Heist": {
+            "Winrate": "30.8%",
+            "Pickrate": "0.07%",
+            "ScoreO": "19.9",
+            "Score": 14.271600000000001
+        },
+        "Wipeout": {
+            "Winrate": "17.5%",
+            "Pickrate": "0.18%",
+            "ScoreO": "14.1",
+            "Score": 9.385
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.13%",
+            "ScoreO": "2.6",
+            "Score": -0.78
+        }
+    },
+    "Clancy": {
+        "Payload": {
+            "Winrate": "54.6%",
+            "Pickrate": "2.87%",
+            "ScoreO": "90.1",
+            "Score": 97.10032089314589
+        },
+        "Basket Brawl": {
+            "Winrate": "36.4%",
+            "Pickrate": "2.29%",
+            "ScoreO": "67.6",
+            "Score": 66.74759452698444
+        },
+        "Duo Showdown": {
+            "Winrate": "83.3%",
+            "Pickrate": "0.09%",
+            "ScoreO": "51.8",
+            "Score": 41.026700000000005
+        },
+        "Hot Zone": {
+            "Winrate": "59.4%",
+            "Pickrate": "0.62%",
+            "ScoreO": "48.1",
+            "Score": 60.550799999999995
+        },
+        "Brawl Ball": {
+            "Winrate": "45.5%",
+            "Pickrate": "0.78%",
+            "ScoreO": "42.9",
+            "Score": 52.55900000000001
+        },
+        "Knockout": {
+            "Winrate": "64.9%",
+            "Pickrate": "0.04%",
+            "ScoreO": "39.7",
+            "Score": 28.575600000000005
+        },
+        "Gem Grab": {
+            "Winrate": "33.4%",
+            "Pickrate": "0.81%",
+            "ScoreO": "36.3",
+            "Score": 38.2594
+        },
+        "Showdown": {
+            "Winrate": "42.1%",
+            "Pickrate": "0.07%",
+            "ScoreO": "26.7",
+            "Score": 19.6617
+        },
+        "Bounty": {
+            "Winrate": "31.3%",
+            "Pickrate": "0.04%",
+            "ScoreO": "19.6",
+            "Score": 13.657200000000001
+        },
+        "Wipeout": {
+            "Winrate": "25.6%",
+            "Pickrate": "0.06%",
+            "ScoreO": "16.6",
+            "Score": 11.569600000000003
+        },
+        "Heist": {
+            "Winrate": "14.4%",
+            "Pickrate": "0.15%",
+            "ScoreO": "11.7",
+            "Score": 7.2360000000000015
+        }
+    },
+    "R-T": {
+        "Bounty": {
+            "Winrate": "67.2%",
+            "Pickrate": "2.37%",
+            "ScoreO": "87.7",
+            "Score": 107.6822186544112
+        },
+        "Knockout": {
+            "Winrate": "71.7%",
+            "Pickrate": "2.08%",
+            "ScoreO": "84.6",
+            "Score": 109.59675681139682
+        },
+        "Hot Zone": {
+            "Winrate": "69.1%",
+            "Pickrate": "1.09%",
+            "ScoreO": "63.2",
+            "Score": 86.84249088723158
+        },
+        "Duo Showdown": {
+            "Winrate": "67.2%",
+            "Pickrate": "0.73%",
+            "ScoreO": "54.9",
+            "Score": 76.4616
+        },
+        "Brawl Ball": {
+            "Winrate": "74.6%",
+            "Pickrate": "0.28%",
+            "ScoreO": "50.3",
+            "Score": 51.13680000000001
+        },
+        "Gem Grab": {
+            "Winrate": "68.9%",
+            "Pickrate": "0.31%",
+            "ScoreO": "47.6",
+            "Score": 49.194900000000004
+        },
+        "Wipeout": {
+            "Winrate": "58.4%",
+            "Pickrate": "0.38%",
+            "ScoreO": "42.6",
+            "Score": 45.4912
+        },
+        "Showdown": {
+            "Winrate": "43.8%",
+            "Pickrate": "0.47%",
+            "ScoreO": "35.7",
+            "Score": 37.3446
+        },
+        "Heist": {
+            "Winrate": "57.1%",
+            "Pickrate": "0.06%",
+            "ScoreO": "35.5",
+            "Score": 26.248600000000003
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.13%",
+            "ScoreO": "2.6",
+            "Score": -0.78
+        }
+    },
+    "Ruffs": {
+        "Gem Grab": {
+            "Winrate": "64.3%",
+            "Pickrate": "1.08%",
+            "ScoreO": "60.2",
+            "Score": 80.34711123408385
+        },
+        "Brawl Ball": {
+            "Winrate": "69.1%",
+            "Pickrate": "0.38%",
+            "ScoreO": "49.1",
+            "Score": 54.2438
+        },
+        "Wipeout": {
+            "Winrate": "70.1%",
+            "Pickrate": "0.33%",
+            "ScoreO": "48.6",
+            "Score": 51.506299999999996
+        },
+        "Hot Zone": {
+            "Winrate": "63%",
+            "Pickrate": "0.39%",
+            "ScoreO": "45.6",
+            "Score": 49.887
+        },
+        "Knockout": {
+            "Winrate": "63.3%",
+            "Pickrate": "0.34%",
+            "ScoreO": "44.8",
+            "Score": 46.9542
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.18%",
+            "ScoreO": "43.6",
+            "Score": 38.8066
+        },
+        "Heist": {
+            "Winrate": "53.7%",
+            "Pickrate": "0.09%",
+            "ScoreO": "34",
+            "Score": 26.256300000000007
+        },
+        "Showdown": {
+            "Winrate": "38.9%",
+            "Pickrate": "0.07%",
+            "ScoreO": "24.7",
+            "Score": 18.1353
+        },
+        "Bounty": {
+            "Winrate": "32.1%",
+            "Pickrate": "0.07%",
+            "ScoreO": "20.7",
+            "Score": 14.891700000000002
+        }
+    },
+    "Eve": {
+        "Duo Showdown": {
+            "Winrate": "69.1%",
+            "Pickrate": "1.68%",
+            "ScoreO": "75.1",
+            "Score": 99.82097380245503
+        },
+        "Heist": {
+            "Winrate": "59.4%",
+            "Pickrate": "1.87%",
+            "ScoreO": "73",
+            "Score": 90.46799292599486
+        },
+        "Bounty": {
+            "Winrate": "60.9%",
+            "Pickrate": "1.52%",
+            "ScoreO": "67",
+            "Score": 86.19455004574556
+        },
+        "Knockout": {
+            "Winrate": "65.5%",
+            "Pickrate": "1.25%",
+            "ScoreO": "64.3",
+            "Score": 86.2873065394263
+        },
+        "Gem Grab": {
+            "Winrate": "60.3%",
+            "Pickrate": "0.88%",
+            "ScoreO": "53.8",
+            "Score": 77.2104
+        },
+        "Hot Zone": {
+            "Winrate": "47.7%",
+            "Pickrate": "0.76%",
+            "ScoreO": "43.8",
+            "Score": 54.39720000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "65.1%",
+            "Pickrate": "0.14%",
+            "ScoreO": "41.9",
+            "Score": 35.2254
+        },
+        "Wipeout": {
+            "Winrate": "49.7%",
+            "Pickrate": "0.43%",
+            "ScoreO": "38.4",
+            "Score": 40.80810000000001
+        },
+        "Showdown": {
+            "Winrate": "44.9%",
+            "Pickrate": "0.43%",
+            "ScoreO": "35.6",
+            "Score": 36.6177
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "Lola": {
+        "Payload": {
+            "Winrate": "90.9%",
+            "Pickrate": "2.87%",
+            "ScoreO": "112",
+            "Score": 144.1306008931459
+        },
+        "Gem Grab": {
+            "Winrate": "72.7%",
+            "Pickrate": "0.75%",
+            "ScoreO": "58.6",
+            "Score": 84.55750000000002
+        },
+        "Brawl Ball": {
+            "Winrate": "75.9%",
+            "Pickrate": "0.63%",
+            "ScoreO": "58.1",
+            "Score": 79.17870000000002
+        },
+        "Heist": {
+            "Winrate": "61.7%",
+            "Pickrate": "0.91%",
+            "ScoreO": "55.2",
+            "Score": 80.98170000000002
+        },
+        "Duo Showdown": {
+            "Winrate": "68.6%",
+            "Pickrate": "0.44%",
+            "ScoreO": "49.9",
+            "Score": 58.002399999999994
+        },
+        "Hot Zone": {
+            "Winrate": "69.3%",
+            "Pickrate": "0.29%",
+            "ScoreO": "47.4",
+            "Score": 48.0867
+        },
+        "Knockout": {
+            "Winrate": "61.2%",
+            "Pickrate": "0.23%",
+            "ScoreO": "41.3",
+            "Score": 38.583600000000004
+        },
+        "Bounty": {
+            "Winrate": "44.2%",
+            "Pickrate": "0.11%",
+            "ScoreO": "28.7",
+            "Score": 22.3682
+        },
+        "Showdown": {
+            "Winrate": "39.1%",
+            "Pickrate": "0.17%",
+            "ScoreO": "26.9",
+            "Score": 21.931700000000003
+        },
+        "Wipeout": {
+            "Winrate": "33.9%",
+            "Pickrate": "0.09%",
+            "ScoreO": "22.2",
+            "Score": 16.3761
+        }
+    },
+    "Dynamike": {
+        "Basket Brawl": {
+            "Winrate": "66.7%",
+            "Pickrate": "3.13%",
+            "ScoreO": "102.6",
+            "Score": 115.37871013656186
+        },
+        "Duo Showdown": {
+            "Winrate": "64.4%",
+            "Pickrate": "1.45%",
+            "ScoreO": "67.7",
+            "Score": 89.3147466929745
+        },
+        "Heist": {
+            "Winrate": "53.3%",
+            "Pickrate": "1.65%",
+            "ScoreO": "65",
+            "Score": 78.80993863737467
+        },
+        "Brawl Ball": {
+            "Winrate": "39.8%",
+            "Pickrate": "1.81%",
+            "ScoreO": "60.1",
+            "Score": 64.09588535833203
+        },
+        "Hot Zone": {
+            "Winrate": "33.7%",
+            "Pickrate": "1.97%",
+            "ScoreO": "59.6",
+            "Score": 58.733926282496924
+        },
+        "Showdown": {
+            "Winrate": "38.6%",
+            "Pickrate": "1.1%",
+            "ScoreO": "45.2",
+            "Score": 47.600665394129756
+        },
+        "Gem Grab": {
+            "Winrate": "42.4%",
+            "Pickrate": "0.89%",
+            "ScoreO": "43.3",
+            "Score": 53.129599999999996
+        },
+        "Knockout": {
+            "Winrate": "29.1%",
+            "Pickrate": "1.14%",
+            "ScoreO": "40.3",
+            "Score": 36.364007872192126
+        },
+        "Bounty": {
+            "Winrate": "28.9%",
+            "Pickrate": "1.01%",
+            "ScoreO": "37.5",
+            "Score": 32.47254992559505
+        },
+        "Wipeout": {
+            "Winrate": "13%",
+            "Pickrate": "0.4%",
+            "ScoreO": "15.8",
+            "Score": 8.52
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.52%",
+            "ScoreO": "10.4",
+            "Score": -3.12
+        }
+    },
+    "Charlie": {
+        "Basket Brawl": {
+            "Winrate": "100%",
+            "Pickrate": "0.21%",
+            "ScoreO": "64.2",
+            "Score": 61.84
+        },
+        "Duo Showdown": {
+            "Winrate": "75%",
+            "Pickrate": "0.62%",
+            "ScoreO": "57.4",
+            "Score": 77.43
+        },
+        "Gem Grab": {
+            "Winrate": "68.5%",
+            "Pickrate": "0.59%",
+            "ScoreO": "52.9",
+            "Score": 68.3165
+        },
+        "Brawl Ball": {
+            "Winrate": "71.3%",
+            "Pickrate": "0.39%",
+            "ScoreO": "50.6",
+            "Score": 56.767700000000005
+        },
+        "Knockout": {
+            "Winrate": "71.1%",
+            "Pickrate": "0.23%",
+            "ScoreO": "47.2",
+            "Score": 45.0483
+        },
+        "Wipeout": {
+            "Winrate": "62.1%",
+            "Pickrate": "0.04%",
+            "ScoreO": "38",
+            "Score": 27.332400000000007
+        },
+        "Bounty": {
+            "Winrate": "56.3%",
+            "Pickrate": "0.04%",
+            "ScoreO": "34.6",
+            "Score": 24.7572
+        },
+        "Showdown": {
+            "Winrate": "44%",
+            "Pickrate": "0.18%",
+            "ScoreO": "30",
+            "Score": 25.232000000000003
+        },
+        "Hot Zone": {
+            "Winrate": "38.9%",
+            "Pickrate": "0.05%",
+            "ScoreO": "24.3",
+            "Score": 17.3995
+        },
+        "Heist": {
+            "Winrate": "25.8%",
+            "Pickrate": "0.05%",
+            "ScoreO": "16.5",
+            "Score": 11.439
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.2%",
+            "ScoreO": "4",
+            "Score": -1.2000000000000002
+        }
+    },
+    "Kit": {
+        "Duo Showdown": {
+            "Winrate": "67.7%",
+            "Pickrate": "6.79%",
+            "ScoreO": "176.4",
+            "Score": 139.90684824711815
+        },
+        "Knockout": {
+            "Winrate": "66.4%",
+            "Pickrate": "4.46%",
+            "ScoreO": "129.1",
+            "Score": 125.6135029809592
+        },
+        "Showdown": {
+            "Winrate": "34.9%",
+            "Pickrate": "2.89%",
+            "ScoreO": "78.8",
+            "Score": 71.78533506373023
+        },
+        "Wipeout": {
+            "Winrate": "59.7%",
+            "Pickrate": "0.73%",
+            "ScoreO": "50.4",
+            "Score": 67.43910000000001
+        },
+        "Bounty": {
+            "Winrate": "50%",
+            "Pickrate": "0.32%",
+            "ScoreO": "36.4",
+            "Score": 35.68
+        },
+        "Brawl Ball": {
+            "Winrate": "45.4%",
+            "Pickrate": "0.21%",
+            "ScoreO": "31.4",
+            "Score": 27.3874
+        },
+        "Gem Grab": {
+            "Winrate": "30.9%",
+            "Pickrate": "0.34%",
+            "ScoreO": "25.3",
+            "Score": 21.876600000000003
+        },
+        "Heist": {
+            "Winrate": "30.9%",
+            "Pickrate": "0.28%",
+            "ScoreO": "24.2",
+            "Score": 20.197200000000002
+        },
+        "Hot Zone": {
+            "Winrate": "27.7%",
+            "Pickrate": "0.26%",
+            "ScoreO": "21.8",
+            "Score": 17.4422
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "Gus": {
+        "Knockout": {
+            "Winrate": "58%",
+            "Pickrate": "3.5%",
+            "ScoreO": "104.8",
+            "Score": 107.45888905486105
+        },
+        "Bounty": {
+            "Winrate": "59.4%",
+            "Pickrate": "3.3%",
+            "ScoreO": "101.7",
+            "Score": 107.50751405417304
+        },
+        "Gem Grab": {
+            "Winrate": "56.2%",
+            "Pickrate": "2.62%",
+            "ScoreO": "86.1",
+            "Score": 96.43914953319018
+        },
+        "Payload": {
+            "Winrate": "69.6%",
+            "Pickrate": "1.5%",
+            "ScoreO": "71.7",
+            "Score": 97.06891324324494
+        },
+        "Duo Showdown": {
+            "Winrate": "60.3%",
+            "Pickrate": "1.59%",
+            "ScoreO": "68",
+            "Score": 86.76790048696421
+        },
+        "Brawl Ball": {
+            "Winrate": "70.4%",
+            "Pickrate": "1.13%",
+            "ScoreO": "64.8",
+            "Score": 89.60796898172748
+        },
+        "Hot Zone": {
+            "Winrate": "58.5%",
+            "Pickrate": "1.47%",
+            "ScoreO": "64.5",
+            "Score": 82.08167202371935
+        },
+        "Wipeout": {
+            "Winrate": "46%",
+            "Pickrate": "1.06%",
+            "ScoreO": "48.8",
+            "Score": 56.076867243719285
+        },
+        "Showdown": {
+            "Winrate": "38.3%",
+            "Pickrate": "0.67%",
+            "ScoreO": "36.4",
+            "Score": 39.527100000000004
+        },
+        "Heist": {
+            "Winrate": "51.9%",
+            "Pickrate": "0.09%",
+            "ScoreO": "33",
+            "Score": 25.3581
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.63%",
+            "ScoreO": "12.6",
+            "Score": -3.7800000000000002
+        }
+    },
+    "Lily": {
+        "Showdown": {
+            "Winrate": "47.9%",
+            "Pickrate": "4.33%",
+            "ScoreO": "115.3",
+            "Score": 100.75746626043195
+        },
+        "Duo Showdown": {
+            "Winrate": "67.3%",
+            "Pickrate": "3.3%",
+            "ScoreO": "106.4",
+            "Score": 117.74275405417305
+        },
+        "Knockout": {
+            "Winrate": "47.5%",
+            "Pickrate": "1.85%",
+            "ScoreO": "65.5",
+            "Score": 74.72776917270701
+        },
+        "Payload": {
+            "Winrate": "100%",
+            "Pickrate": "0.07%",
+            "ScoreO": "61.4",
+            "Score": 47.28
+        },
+        "Hot Zone": {
+            "Winrate": "55.7%",
+            "Pickrate": "0.38%",
+            "ScoreO": "41",
+            "Score": 43.2826
+        },
+        "Heist": {
+            "Winrate": "55.5%",
+            "Pickrate": "0.21%",
+            "ScoreO": "37.5",
+            "Score": 33.7605
+        },
+        "Bounty": {
+            "Winrate": "44.9%",
+            "Pickrate": "0.41%",
+            "ScoreO": "35.1",
+            "Score": 35.7499
+        },
+        "Brawl Ball": {
+            "Winrate": "47.5%",
+            "Pickrate": "0.21%",
+            "ScoreO": "32.7",
+            "Score": 28.7125
+        },
+        "Gem Grab": {
+            "Winrate": "38.8%",
+            "Pickrate": "0.39%",
+            "ScoreO": "31.1",
+            "Score": 29.825200000000002
+        },
+        "Wipeout": {
+            "Winrate": "36.6%",
+            "Pickrate": "0.33%",
+            "ScoreO": "28.5",
+            "Score": 25.945800000000002
+        }
+    },
+    "Poco": {
+        "Payload": {
+            "Winrate": "59.7%",
+            "Pickrate": "4.7%",
+            "ScoreO": "129.8",
+            "Score": 118.5053952614804
+        },
+        "Hot Zone": {
+            "Winrate": "42.6%",
+            "Pickrate": "2.34%",
+            "ScoreO": "72.3",
+            "Score": 75.42828788108831
+        },
+        "Knockout": {
+            "Winrate": "61.2%",
+            "Pickrate": "0.64%",
+            "ScoreO": "49.5",
+            "Score": 63.7248
+        },
+        "Brawl Ball": {
+            "Winrate": "43.6%",
+            "Pickrate": "0.78%",
+            "ScoreO": "41.7",
+            "Score": 50.168800000000005
+        },
+        "Duo Showdown": {
+            "Winrate": "57.1%",
+            "Pickrate": "0.23%",
+            "ScoreO": "38.9",
+            "Score": 35.90630000000001
+        },
+        "Gem Grab": {
+            "Winrate": "33.9%",
+            "Pickrate": "0.61%",
+            "ScoreO": "32.6",
+            "Score": 32.6469
+        },
+        "Showdown": {
+            "Winrate": "24.6%",
+            "Pickrate": "0.21%",
+            "ScoreO": "18.9",
+            "Score": 14.262600000000003
+        },
+        "Bounty": {
+            "Winrate": "27.1%",
+            "Pickrate": "0.13%",
+            "ScoreO": "18.9",
+            "Score": 13.935300000000003
+        },
+        "Heist": {
+            "Winrate": "25%",
+            "Pickrate": "0.03%",
+            "ScoreO": "15.6",
+            "Score": 10.645
+        },
+        "Wipeout": {
+            "Winrate": "10.4%",
+            "Pickrate": "0.46%",
+            "ScoreO": "15.4",
+            "Score": 6.662400000000002
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.42%",
+            "ScoreO": "8.4",
+            "Score": -2.52
+        }
+    },
+    "Jessie": {
+        "Heist": {
+            "Winrate": "30.5%",
+            "Pickrate": "4.48%",
+            "ScoreO": "107.9",
+            "Score": 79.23569139280681
+        },
+        "Hot Zone": {
+            "Winrate": "51.5%",
+            "Pickrate": "3.3%",
+            "ScoreO": "96.9",
+            "Score": 97.27227405417304
+        },
+        "Payload": {
+            "Winrate": "41.9%",
+            "Pickrate": "2.02%",
+            "ScoreO": "65.6",
+            "Score": 70.1097653423934
+        },
+        "Gem Grab": {
+            "Winrate": "46.7%",
+            "Pickrate": "1.48%",
+            "ScoreO": "57.6",
+            "Score": 66.99698263328072
+        },
+        "Brawl Ball": {
+            "Winrate": "52%",
+            "Pickrate": "0.92%",
+            "ScoreO": "49.6",
+            "Score": 67.90400000000001
+        },
+        "Duo Showdown": {
+            "Winrate": "59.3%",
+            "Pickrate": "0.39%",
+            "ScoreO": "43.4",
+            "Score": 46.8197
+        },
+        "Showdown": {
+            "Winrate": "37.3%",
+            "Pickrate": "0.22%",
+            "ScoreO": "26.8",
+            "Score": 22.6266
+        },
+        "Bounty": {
+            "Winrate": "31.3%",
+            "Pickrate": "0.08%",
+            "ScoreO": "20.4",
+            "Score": 14.794400000000001
+        },
+        "Knockout": {
+            "Winrate": "27.8%",
+            "Pickrate": "0.11%",
+            "ScoreO": "18.9",
+            "Score": 13.823800000000002
+        },
+        "Wipeout": {
+            "Winrate": "14.2%",
+            "Pickrate": "0.28%",
+            "ScoreO": "14.1",
+            "Score": 8.3736
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.42%",
+            "ScoreO": "8.4",
+            "Score": -2.52
+        }
+    },
+    "Brock": {
+        "Knockout": {
+            "Winrate": "48.9%",
+            "Pickrate": "3.95%",
+            "ScoreO": "108.3",
+            "Score": 99.29750736739092
+        },
+        "Duo Showdown": {
+            "Winrate": "69.4%",
+            "Pickrate": "1.85%",
+            "ScoreO": "78.7",
+            "Score": 103.10140917270702
+        },
+        "Heist": {
+            "Winrate": "42.4%",
+            "Pickrate": "2.48%",
+            "ScoreO": "75",
+            "Score": 76.91239680530673
+        },
+        "Bounty": {
+            "Winrate": "41.7%",
+            "Pickrate": "2.39%",
+            "ScoreO": "72.8",
+            "Score": 74.89652097830259
+        },
+        "Wipeout": {
+            "Winrate": "27.8%",
+            "Pickrate": "2.02%",
+            "ScoreO": "57.1",
+            "Score": 51.84180534239341
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "0.42%",
+            "ScoreO": "38.4",
+            "Score": 40.58
+        },
+        "Brawl Ball": {
+            "Winrate": "45.8%",
+            "Pickrate": "0.44%",
+            "ScoreO": "36.3",
+            "Score": 37.8472
+        },
+        "Showdown": {
+            "Winrate": "35.1%",
+            "Pickrate": "0.63%",
+            "ScoreO": "33.6",
+            "Score": 34.5843
+        },
+        "Gem Grab": {
+            "Winrate": "31.7%",
+            "Pickrate": "0.55%",
+            "ScoreO": "30",
+            "Score": 28.558500000000002
+        },
+        "Payload": {
+            "Winrate": "22.2%",
+            "Pickrate": "0.59%",
+            "ScoreO": "25.1",
+            "Score": 19.7478
+        },
+        "Hot Zone": {
+            "Winrate": "23.2%",
+            "Pickrate": "0.35%",
+            "ScoreO": "20.9",
+            "Score": 16.112000000000002
+        }
+    },
+    "Edgar": {
+        "Showdown": {
+            "Winrate": "33.3%",
+            "Pickrate": "3.42%",
+            "ScoreO": "88.4",
+            "Score": 74.7638965322354
+        },
+        "Duo Showdown": {
+            "Winrate": "53.5%",
+            "Pickrate": "2.14%",
+            "ScoreO": "74.9",
+            "Score": 86.8699748710128
+        },
+        "Heist": {
+            "Winrate": "51.3%",
+            "Pickrate": "2.16%",
+            "ScoreO": "74",
+            "Score": 84.29872665088222
+        },
+        "Knockout": {
+            "Winrate": "28.6%",
+            "Pickrate": "1.27%",
+            "ScoreO": "42.5",
+            "Score": 38.955867014115
+        },
+        "Hot Zone": {
+            "Winrate": "24.5%",
+            "Pickrate": "0.91%",
+            "ScoreO": "32.9",
+            "Score": 28.864500000000003
+        },
+        "Basket Brawl": {
+            "Winrate": "33.3%",
+            "Pickrate": "0.63%",
+            "ScoreO": "32.6",
+            "Score": 32.6169
+        },
+        "Bounty": {
+            "Winrate": "32.4%",
+            "Pickrate": "0.59%",
+            "ScoreO": "31.3",
+            "Score": 30.4476
+        },
+        "Gem Grab": {
+            "Winrate": "26.7%",
+            "Pickrate": "0.69%",
+            "ScoreO": "29.8",
+            "Score": 26.8053
+        },
+        "Brawl Ball": {
+            "Winrate": "24.4%",
+            "Pickrate": "0.65%",
+            "ScoreO": "27.7",
+            "Score": 23.306
+        },
+        "Wipeout": {
+            "Winrate": "19.5%",
+            "Pickrate": "0.47%",
+            "ScoreO": "21.1",
+            "Score": 15.0615
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.78%",
+            "ScoreO": "15.6",
+            "Score": -4.68
+        }
+    },
+    "Jacky": {
+        "Brawl Ball": {
+            "Winrate": "46.2%",
+            "Pickrate": "2.17%",
+            "ScoreO": "71.1",
+            "Score": 77.82973502657106
+        },
+        "Hot Zone": {
+            "Winrate": "53.2%",
+            "Pickrate": "1.28%",
+            "ScoreO": "57.5",
+            "Score": 71.06292233794578
+        },
+        "Bounty": {
+            "Winrate": "43.3%",
+            "Pickrate": "1.49%",
+            "ScoreO": "55.8",
+            "Score": 62.793963598721035
+        },
+        "Duo Showdown": {
+            "Winrate": "57.1%",
+            "Pickrate": "0.54%",
+            "ScoreO": "45.1",
+            "Score": 53.51740000000001
+        },
+        "Basket Brawl": {
+            "Winrate": "14.3%",
+            "Pickrate": "1.46%",
+            "ScoreO": "37.8",
+            "Score": 24.611373071607353
+        },
+        "Knockout": {
+            "Winrate": "49.6%",
+            "Pickrate": "0.34%",
+            "ScoreO": "36.6",
+            "Score": 36.35040000000001
+        },
+        "Showdown": {
+            "Winrate": "38%",
+            "Pickrate": "0.5%",
+            "ScoreO": "32.8",
+            "Score": 33.1
+        },
+        "Payload": {
+            "Winrate": "33.3%",
+            "Pickrate": "0.59%",
+            "ScoreO": "31.8",
+            "Score": 31.3917
+        },
+        "Gem Grab": {
+            "Winrate": "37.1%",
+            "Pickrate": "0.37%",
+            "ScoreO": "29.7",
+            "Score": 27.719700000000003
+        },
+        "Heist": {
+            "Winrate": "22.2%",
+            "Pickrate": "0.03%",
+            "ScoreO": "13.9",
+            "Score": 9.4326
+        },
+        "Wipeout": {
+            "Winrate": "9%",
+            "Pickrate": "0.12%",
+            "ScoreO": "7.8",
+            "Score": 4.068
+        }
+    },
+    "Darryl": {
+        "Knockout": {
+            "Winrate": "69.2%",
+            "Pickrate": "2.98%",
+            "ScoreO": "101.1",
+            "Score": 117.1444190155194
+        },
+        "Payload": {
+            "Winrate": "73.1%",
+            "Pickrate": "1.7%",
+            "ScoreO": "77.9",
+            "Score": 105.35840753186511
+        },
+        "Showdown": {
+            "Winrate": "52.7%",
+            "Pickrate": "1.99%",
+            "ScoreO": "71.4",
+            "Score": 83.65335916209203
+        },
+        "Heist": {
+            "Winrate": "52%",
+            "Pickrate": "1.57%",
+            "ScoreO": "62.6",
+            "Score": 75.6346685808065
+        },
+        "Duo Showdown": {
+            "Winrate": "68.3%",
+            "Pickrate": "0.8%",
+            "ScoreO": "57",
+            "Score": 82.62400000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "43.4%",
+            "Pickrate": "1.23%",
+            "ScoreO": "50.7",
+            "Score": 57.17066508152979
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "0.83%",
+            "ScoreO": "46.6",
+            "Score": 60.67
+        },
+        "Gem Grab": {
+            "Winrate": "40.8%",
+            "Pickrate": "0.86%",
+            "ScoreO": "41.7",
+            "Score": 49.7568
+        },
+        "Bounty": {
+            "Winrate": "46.5%",
+            "Pickrate": "0.49%",
+            "ScoreO": "37.7",
+            "Score": 40.7235
+        },
+        "Hot Zone": {
+            "Winrate": "32.7%",
+            "Pickrate": "0.63%",
+            "ScoreO": "32.2",
+            "Score": 31.961100000000005
+        },
+        "Wipeout": {
+            "Winrate": "24.3%",
+            "Pickrate": "0.22%",
+            "ScoreO": "19",
+            "Score": 14.2806
+        }
+    },
+    "Rico": {
+        "Brawl Ball": {
+            "Winrate": "46.4%",
+            "Pickrate": "6.4%",
+            "ScoreO": "155.9",
+            "Score": 110.53597971096879
+        },
+        "Gem Grab": {
+            "Winrate": "51.6%",
+            "Pickrate": "4.8%",
+            "ScoreO": "126.9",
+            "Score": 108.64263753741537
+        },
+        "Heist": {
+            "Winrate": "44.1%",
+            "Pickrate": "2.86%",
+            "ScoreO": "83.6",
+            "Score": 83.39180874495284
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "1.67%",
+            "ScoreO": "63.4",
+            "Score": 74.89590879285991
+        },
+        "Knockout": {
+            "Winrate": "34.2%",
+            "Pickrate": "1.8%",
+            "ScoreO": "56.5",
+            "Score": 56.67431994706358
+        },
+        "Duo Showdown": {
+            "Winrate": "55%",
+            "Pickrate": "1.02%",
+            "ScoreO": "53.4",
+            "Score": 66.5832788188854
+        },
+        "Bounty": {
+            "Winrate": "36.8%",
+            "Pickrate": "1.38%",
+            "ScoreO": "49.7",
+            "Score": 52.0717849750734
+        },
+        "Payload": {
+            "Winrate": "35%",
+            "Pickrate": "1.31%",
+            "ScoreO": "47.2",
+            "Score": 48.17801411639181
+        },
+        "Showdown": {
+            "Winrate": "38.5%",
+            "Pickrate": "1.13%",
+            "ScoreO": "45.7",
+            "Score": 48.278328981727476
+        },
+        "Hot Zone": {
+            "Winrate": "36.9%",
+            "Pickrate": "1.01%",
+            "ScoreO": "42.4",
+            "Score": 42.83734992559504
+        },
+        "Wipeout": {
+            "Winrate": "19.6%",
+            "Pickrate": "0.86%",
+            "ScoreO": "29",
+            "Score": 21.221600000000002
+        }
+    },
+    "Angelo": {
+        "Heist": {
+            "Winrate": "55.4%",
+            "Pickrate": "3.73%",
+            "ScoreO": "107.8",
+            "Score": 105.99968700967173
+        },
+        "Knockout": {
+            "Winrate": "57.6%",
+            "Pickrate": "3.29%",
+            "ScoreO": "100.3",
+            "Score": 105.08438694331844
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "2.47%",
+            "ScoreO": "89.4",
+            "Score": 108.27426451919658
+        },
+        "Bounty": {
+            "Winrate": "50.7%",
+            "Pickrate": "2.75%",
+            "ScoreO": "85.4",
+            "Score": 90.76614735035442
+        },
+        "Wipeout": {
+            "Winrate": "55.6%",
+            "Pickrate": "1.41%",
+            "ScoreO": "61.6",
+            "Score": 77.07425113170231
+        },
+        "Showdown": {
+            "Winrate": "56.7%",
+            "Pickrate": "1.36%",
+            "ScoreO": "61.2",
+            "Score": 77.41626099243882
+        },
+        "Gem Grab": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.93%",
+            "ScoreO": "58.6",
+            "Score": 89.3341
+        },
+        "Brawl Ball": {
+            "Winrate": "68.9%",
+            "Pickrate": "0.12%",
+            "ScoreO": "43.7",
+            "Score": 35.9348
+        },
+        "Hot Zone": {
+            "Winrate": "42.4%",
+            "Pickrate": "0.47%",
+            "ScoreO": "34.8",
+            "Score": 36.0608
+        }
+    },
+    "Penny": {
+        "Payload": {
+            "Winrate": "81%",
+            "Pickrate": "2.74%",
+            "ScoreO": "103.4",
+            "Score": 129.91353761199937
+        },
+        "Hot Zone": {
+            "Winrate": "52.1%",
+            "Pickrate": "3.23%",
+            "ScoreO": "95.8",
+            "Score": 97.40642411703695
+        },
+        "Gem Grab": {
+            "Winrate": "54.6%",
+            "Pickrate": "2.37%",
+            "ScoreO": "80.2",
+            "Score": 91.3576586544112
+        },
+        "Wipeout": {
+            "Winrate": "42.6%",
+            "Pickrate": "1.66%",
+            "ScoreO": "58.8",
+            "Score": 65.12828807105356
+        },
+        "Brawl Ball": {
+            "Winrate": "61.7%",
+            "Pickrate": "0.72%",
+            "ScoreO": "51.4",
+            "Score": 69.22640000000001
+        },
+        "Bounty": {
+            "Winrate": "55.3%",
+            "Pickrate": "0.88%",
+            "ScoreO": "50.8",
+            "Score": 70.3704
+        },
+        "Heist": {
+            "Winrate": "32.3%",
+            "Pickrate": "1.41%",
+            "ScoreO": "47.6",
+            "Score": 46.886771131702304
+        },
+        "Knockout": {
+            "Winrate": "48.3%",
+            "Pickrate": "0.52%",
+            "ScoreO": "39.4",
+            "Score": 43.827600000000004
+        },
+        "Showdown": {
+            "Winrate": "53.6%",
+            "Pickrate": "0.2%",
+            "ScoreO": "36.1",
+            "Score": 32.032000000000004
+        },
+        "Duo Showdown": {
+            "Winrate": "40%",
+            "Pickrate": "0.28%",
+            "ScoreO": "29.6",
+            "Score": 26.64
+        }
+    },
+    "Sandy": {
+        "Gem Grab": {
+            "Winrate": "52.8%",
+            "Pickrate": "1.67%",
+            "ScoreO": "65.1",
+            "Score": 78.52358879285991
+        },
+        "Brawl Ball": {
+            "Winrate": "63.5%",
+            "Pickrate": "1.03%",
+            "ScoreO": "58.7",
+            "Score": 77.88856406724634
+        },
+        "Hot Zone": {
+            "Winrate": "45.4%",
+            "Pickrate": "1.36%",
+            "ScoreO": "54.4",
+            "Score": 62.77598099243883
+        },
+        "Wipeout": {
+            "Winrate": "60.9%",
+            "Pickrate": "0.17%",
+            "ScoreO": "40",
+            "Score": 34.728300000000004
+        },
+        "Bounty": {
+            "Winrate": "44.3%",
+            "Pickrate": "0.16%",
+            "ScoreO": "29.8",
+            "Score": 24.5568
+        },
+        "Showdown": {
+            "Winrate": "30.4%",
+            "Pickrate": "0.17%",
+            "ScoreO": "21.7",
+            "Score": 16.824800000000003
+        },
+        "Knockout": {
+            "Winrate": "24.2%",
+            "Pickrate": "0.06%",
+            "ScoreO": "15.7",
+            "Score": 10.917200000000001
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.2%",
+            "ScoreO": "4",
+            "Score": -1.2000000000000002
+        },
+        "Duo Showdown": {
+            "Winrate": "0%",
+            "Pickrate": "0.15%",
+            "ScoreO": "3",
+            "Score": -0.8999999999999999
+        },
+        "Heist": {
+            "Winrate": "0%",
+            "Pickrate": "0.01%",
+            "ScoreO": "0.2",
+            "Score": -0.06
+        }
+    },
+    "Bibi": {
+        "Basket Brawl": {
+            "Winrate": "48.7%",
+            "Pickrate": "8.13%",
+            "ScoreO": "191.8",
+            "Score": 120.69374770679158
+        },
+        "Brawl Ball": {
+            "Winrate": "36.1%",
+            "Pickrate": "2.89%",
+            "ScoreO": "79.5",
+            "Score": 73.34005506373023
+        },
+        "Hot Zone": {
+            "Winrate": "50.6%",
+            "Pickrate": "1.96%",
+            "ScoreO": "69.6",
+            "Score": 80.47689419727277
+        },
+        "Heist": {
+            "Winrate": "51.7%",
+            "Pickrate": "1.53%",
+            "ScoreO": "61.6",
+            "Score": 74.47175206213034
+        },
+        "Duo Showdown": {
+            "Winrate": "63.2%",
+            "Pickrate": "0.82%",
+            "ScoreO": "54.3",
+            "Score": 77.3664
+        },
+        "Showdown": {
+            "Winrate": "37.4%",
+            "Pickrate": "1.5%",
+            "ScoreO": "52.4",
+            "Score": 55.35059324324494
+        },
+        "Gem Grab": {
+            "Winrate": "43.5%",
+            "Pickrate": "1.31%",
+            "ScoreO": "52.3",
+            "Score": 59.190614116391814
+        },
+        "Payload": {
+            "Winrate": "20.8%",
+            "Pickrate": "1.57%",
+            "ScoreO": "43.9",
+            "Score": 35.21194858080651
+        },
+        "Knockout": {
+            "Winrate": "47.1%",
+            "Pickrate": "0.47%",
+            "ScoreO": "37.7",
+            "Score": 40.3707
+        },
+        "Bounty": {
+            "Winrate": "35.5%",
+            "Pickrate": "0.45%",
+            "ScoreO": "30.3",
+            "Score": 29.0725
+        },
+        "Wipeout": {
+            "Winrate": "32.5%",
+            "Pickrate": "0.29%",
+            "ScoreO": "25.3",
+            "Score": 21.627499999999998
+        }
+    },
+    "Emz": {
+        "Heist": {
+            "Winrate": "79%",
+            "Pickrate": "0.61%",
+            "ScoreO": "59.6",
+            "Score": 80.949
+        },
+        "Brawl Ball": {
+            "Winrate": "54.4%",
+            "Pickrate": "0.56%",
+            "ScoreO": "43.9",
+            "Score": 51.91040000000001
+        },
+        "Duo Showdown": {
+            "Winrate": "54.2%",
+            "Pickrate": "0.52%",
+            "ScoreO": "42.9",
+            "Score": 49.56240000000001
+        },
+        "Gem Grab": {
+            "Winrate": "43.2%",
+            "Pickrate": "0.82%",
+            "ScoreO": "42.3",
+            "Score": 51.3264
+        },
+        "Hot Zone": {
+            "Winrate": "36.4%",
+            "Pickrate": "0.85%",
+            "ScoreO": "38.9",
+            "Score": 43.494
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "0.42%",
+            "ScoreO": "38.4",
+            "Score": 40.58
+        },
+        "Bounty": {
+            "Winrate": "42.7%",
+            "Pickrate": "0.33%",
+            "ScoreO": "32.2",
+            "Score": 30.600100000000005
+        },
+        "Knockout": {
+            "Winrate": "35%",
+            "Pickrate": "0.3%",
+            "ScoreO": "27",
+            "Score": 23.75
+        },
+        "Showdown": {
+            "Winrate": "29.9%",
+            "Pickrate": "0.28%",
+            "ScoreO": "23.5",
+            "Score": 19.489200000000004
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.85%",
+            "ScoreO": "17",
+            "Score": -5.1
+        },
+        "Wipeout": {
+            "Winrate": "12.4%",
+            "Pickrate": "0.32%",
+            "ScoreO": "13.8",
+            "Score": 7.404800000000002
+        }
+    },
+    "Nita": {
+        "Payload": {
+            "Winrate": "76.6%",
+            "Pickrate": "3.07%",
+            "ScoreO": "107.4",
+            "Score": 127.62448684797317
+        },
+        "Heist": {
+            "Winrate": "48.8%",
+            "Pickrate": "2.06%",
+            "ScoreO": "70.5",
+            "Score": 79.63765948404469
+        },
+        "Basket Brawl": {
+            "Winrate": "44.4%",
+            "Pickrate": "1.88%",
+            "ScoreO": "64.3",
+            "Score": 71.19399330525573
+        },
+        "Brawl Ball": {
+            "Winrate": "56.7%",
+            "Pickrate": "1.36%",
+            "ScoreO": "61.2",
+            "Score": 77.41626099243882
+        },
+        "Hot Zone": {
+            "Winrate": "46.3%",
+            "Pickrate": "1.13%",
+            "ScoreO": "50.4",
+            "Score": 58.384008981727476
+        },
+        "Gem Grab": {
+            "Winrate": "45.5%",
+            "Pickrate": "0.9%",
+            "ScoreO": "45.3",
+            "Score": 57.845000000000006
+        },
+        "Bounty": {
+            "Winrate": "32.2%",
+            "Pickrate": "0.16%",
+            "ScoreO": "22.5",
+            "Score": 17.587200000000003
+        },
+        "Duo Showdown": {
+            "Winrate": "28.6%",
+            "Pickrate": "0.25%",
+            "ScoreO": "22.1",
+            "Score": 17.805000000000003
+        },
+        "Showdown": {
+            "Winrate": "25.3%",
+            "Pickrate": "0.29%",
+            "ScoreO": "21",
+            "Score": 16.4507
+        },
+        "Knockout": {
+            "Winrate": "15.4%",
+            "Pickrate": "0.05%",
+            "ScoreO": "10.2",
+            "Score": 6.707000000000001
+        },
+        "Wipeout": {
+            "Winrate": "11.5%",
+            "Pickrate": "0.04%",
+            "ScoreO": "7.7",
+            "Score": 4.8660000000000005
+        }
+    },
+    "Barley": {
+        "Hot Zone": {
+            "Winrate": "52.8%",
+            "Pickrate": "1.88%",
+            "ScoreO": "69.3",
+            "Score": 82.07703330525572
+        },
+        "Gem Grab": {
+            "Winrate": "71.2%",
+            "Pickrate": "0.48%",
+            "ScoreO": "52.3",
+            "Score": 63.1936
+        },
+        "Brawl Ball": {
+            "Winrate": "67.1%",
+            "Pickrate": "0.53%",
+            "ScoreO": "50.8",
+            "Score": 62.77929999999999
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.51%",
+            "ScoreO": "50.2",
+            "Score": 61.03870000000001
+        },
+        "Heist": {
+            "Winrate": "50.9%",
+            "Pickrate": "0.47%",
+            "ScoreO": "39.9",
+            "Score": 43.8553
+        },
+        "Bounty": {
+            "Winrate": "46.6%",
+            "Pickrate": "0.31%",
+            "ScoreO": "34.2",
+            "Score": 32.6706
+        },
+        "Knockout": {
+            "Winrate": "48.7%",
+            "Pickrate": "0.18%",
+            "ScoreO": "32.8",
+            "Score": 28.042600000000007
+        },
+        "Showdown": {
+            "Winrate": "21.9%",
+            "Pickrate": "0.12%",
+            "ScoreO": "15.5",
+            "Score": 10.9308
+        },
+        "Wipeout": {
+            "Winrate": "4%",
+            "Pickrate": "0.04%",
+            "ScoreO": "3.2",
+            "Score": 1.536
+        }
+    },
+    "Gray": {
+        "Knockout": {
+            "Winrate": "60.7%",
+            "Pickrate": "3.01%",
+            "ScoreO": "96.6",
+            "Score": 106.43232236282353
+        },
+        "Hot Zone": {
+            "Winrate": "61.2%",
+            "Pickrate": "2.1%",
+            "ScoreO": "78.7",
+            "Score": 96.28004034188133
+        },
+        "Bounty": {
+            "Winrate": "62.8%",
+            "Pickrate": "1.66%",
+            "ScoreO": "70.9",
+            "Score": 91.29940807105356
+        },
+        "Brawl Ball": {
+            "Winrate": "65.8%",
+            "Pickrate": "0.58%",
+            "ScoreO": "51.1",
+            "Score": 64.82039999999999
+        },
+        "Duo Showdown": {
+            "Winrate": "63.2%",
+            "Pickrate": "0.58%",
+            "ScoreO": "49.5",
+            "Score": 62.1216
+        },
+        "Wipeout": {
+            "Winrate": "54.8%",
+            "Pickrate": "0.69%",
+            "ScoreO": "46.7",
+            "Score": 59.373200000000004
+        },
+        "Showdown": {
+            "Winrate": "55.8%",
+            "Pickrate": "0.38%",
+            "ScoreO": "41.1",
+            "Score": 43.3644
+        },
+        "Gem Grab": {
+            "Winrate": "43.5%",
+            "Pickrate": "0.44%",
+            "ScoreO": "34.9",
+            "Score": 35.81400000000001
+        },
+        "Heist": {
+            "Winrate": "43.2%",
+            "Pickrate": "0.06%",
+            "ScoreO": "27.1",
+            "Score": 19.7712
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "Surge": {
+        "Basket Brawl": {
+            "Winrate": "36.4%",
+            "Pickrate": "4.58%",
+            "ScoreO": "113.4",
+            "Score": 87.5420099437828
+        },
+        "Gem Grab": {
+            "Winrate": "50.5%",
+            "Pickrate": "3.72%",
+            "ScoreO": "104.7",
+            "Score": 99.57071004855166
+        },
+        "Brawl Ball": {
+            "Winrate": "47.8%",
+            "Pickrate": "3.43%",
+            "ScoreO": "97.3",
+            "Score": 93.63768783533546
+        },
+        "Duo Showdown": {
+            "Winrate": "63.6%",
+            "Pickrate": "2.45%",
+            "ScoreO": "87.2",
+            "Score": 104.01400073669909
+        },
+        "Hot Zone": {
+            "Winrate": "40.7%",
+            "Pickrate": "3%",
+            "ScoreO": "84.4",
+            "Score": 80.4204886600433
+        },
+        "Showdown": {
+            "Winrate": "28.6%",
+            "Pickrate": "2.71%",
+            "ScoreO": "71.4",
+            "Score": 61.69381904674829
+        },
+        "Payload": {
+            "Winrate": "26.2%",
+            "Pickrate": "2.74%",
+            "ScoreO": "70.5",
+            "Score": 58.914657611999374
+        },
+        "Bounty": {
+            "Winrate": "42.8%",
+            "Pickrate": "0.94%",
+            "ScoreO": "44.5",
+            "Score": 55.73519999999999
+        },
+        "Knockout": {
+            "Winrate": "18.9%",
+            "Pickrate": "0.45%",
+            "ScoreO": "20.3",
+            "Score": 14.215499999999999
+        },
+        "Heist": {
+            "Winrate": "23.1%",
+            "Pickrate": "0.13%",
+            "ScoreO": "16.5",
+            "Score": 11.763300000000001
+        },
+        "Wipeout": {
+            "Winrate": "12.7%",
+            "Pickrate": "0.34%",
+            "ScoreO": "14.4",
+            "Score": 7.789800000000001
+        }
+    },
+    "Mortis": {
+        "Brawl Ball": {
+            "Winrate": "25%",
+            "Pickrate": "6.66%",
+            "ScoreO": "148.2",
+            "Score": 84.00478453656893
+        },
+        "Gem Grab": {
+            "Winrate": "35.9%",
+            "Pickrate": "5.58%",
+            "ScoreO": "133.2",
+            "Score": 92.81890329179659
+        },
+        "Showdown": {
+            "Winrate": "39.4%",
+            "Pickrate": "3.17%",
+            "ScoreO": "87.1",
+            "Score": 80.38978763667568
+        },
+        "Duo Showdown": {
+            "Winrate": "67.1%",
+            "Pickrate": "2.2%",
+            "ScoreO": "84.3",
+            "Score": 105.3196808109281
+        },
+        "Hot Zone": {
+            "Winrate": "42.1%",
+            "Pickrate": "2.56%",
+            "ScoreO": "76.5",
+            "Score": 77.47617775474414
+        },
+        "Wipeout": {
+            "Winrate": "32.3%",
+            "Pickrate": "2.75%",
+            "ScoreO": "74.4",
+            "Score": 66.92710735035439
+        },
+        "Basket Brawl": {
+            "Winrate": "36.4%",
+            "Pickrate": "2.29%",
+            "ScoreO": "67.6",
+            "Score": 66.74759452698444
+        },
+        "Bounty": {
+            "Winrate": "48.5%",
+            "Pickrate": "1.88%",
+            "ScoreO": "66.7",
+            "Score": 76.50595330525573
+        },
+        "Knockout": {
+            "Winrate": "32.1%",
+            "Pickrate": "1.79%",
+            "ScoreO": "55.1",
+            "Score": 53.78642859557992
+        },
+        "Heist": {
+            "Winrate": "22.6%",
+            "Pickrate": "0.14%",
+            "ScoreO": "16.4",
+            "Score": 11.680400000000002
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.72%",
+            "ScoreO": "14.4",
+            "Score": -4.32
+        }
+    },
+    "Fang": {
+        "Brawl Ball": {
+            "Winrate": "36.4%",
+            "Pickrate": "2.47%",
+            "ScoreO": "71.3",
+            "Score": 69.01758451919657
+        },
+        "Basket Brawl": {
+            "Winrate": "42.9%",
+            "Pickrate": "1.46%",
+            "ScoreO": "54.9",
+            "Score": 61.665533071607356
+        },
+        "Payload": {
+            "Winrate": "43.8%",
+            "Pickrate": "1.04%",
+            "ScoreO": "47.1",
+            "Score": 52.65510139459845
+        },
+        "Wipeout": {
+            "Winrate": "31.2%",
+            "Pickrate": "1.25%",
+            "ScoreO": "43.7",
+            "Score": 41.84822653942629
+        },
+        "Gem Grab": {
+            "Winrate": "34.1%",
+            "Pickrate": "1.12%",
+            "ScoreO": "42.9",
+            "Score": 42.3110205592101
+        },
+        "Bounty": {
+            "Winrate": "42.5%",
+            "Pickrate": "0.48%",
+            "ScoreO": "35.1",
+            "Score": 36.56
+        },
+        "Knockout": {
+            "Winrate": "41.6%",
+            "Pickrate": "0.47%",
+            "ScoreO": "34.4",
+            "Score": 35.327200000000005
+        },
+        "Showdown": {
+            "Winrate": "34.3%",
+            "Pickrate": "0.62%",
+            "ScoreO": "33",
+            "Score": 33.3926
+        },
+        "Hot Zone": {
+            "Winrate": "21.3%",
+            "Pickrate": "0.73%",
+            "ScoreO": "27.4",
+            "Score": 21.2439
+        },
+        "Duo Showdown": {
+            "Winrate": "20%",
+            "Pickrate": "0.42%",
+            "ScoreO": "20.4",
+            "Score": 14.720000000000002
+        },
+        "Heist": {
+            "Winrate": "28.6%",
+            "Pickrate": "0.08%",
+            "ScoreO": "18.7",
+            "Score": 13.4768
+        }
+    },
+    "Leon": {
+        "Duo Showdown": {
+            "Winrate": "58.4%",
+            "Pickrate": "2.31%",
+            "ScoreO": "81.3",
+            "Score": 95.51166573601108
+        },
+        "Gem Grab": {
+            "Winrate": "54.8%",
+            "Pickrate": "2.08%",
+            "ScoreO": "74.5",
+            "Score": 87.7011168113968
+        },
+        "Showdown": {
+            "Winrate": "36%",
+            "Pickrate": "1.99%",
+            "ScoreO": "61.4",
+            "Score": 62.01683916209204
+        },
+        "Brawl Ball": {
+            "Winrate": "55.9%",
+            "Pickrate": "0.82%",
+            "ScoreO": "50",
+            "Score": 67.86179999999999
+        },
+        "Knockout": {
+            "Winrate": "30.7%",
+            "Pickrate": "1.46%",
+            "ScoreO": "47.6",
+            "Score": 45.85921307160736
+        },
+        "Bounty": {
+            "Winrate": "40.1%",
+            "Pickrate": "1.12%",
+            "ScoreO": "46.4",
+            "Score": 50.0846205592101
+        },
+        "Hot Zone": {
+            "Winrate": "47.1%",
+            "Pickrate": "0.52%",
+            "ScoreO": "38.6",
+            "Score": 42.6612
+        },
+        "Wipeout": {
+            "Winrate": "23.8%",
+            "Pickrate": "0.8%",
+            "ScoreO": "30.3",
+            "Score": 25.66400000000001
+        },
+        "Payload": {
+            "Winrate": "12.5%",
+            "Pickrate": "0.52%",
+            "ScoreO": "17.9",
+            "Score": 9.030000000000001
+        },
+        "Heist": {
+            "Winrate": "25%",
+            "Pickrate": "0.11%",
+            "ScoreO": "17.2",
+            "Score": 12.365
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        }
+    },
+    "Kenji": {
+        "Hot Zone": {
+            "Winrate": "57.5%",
+            "Pickrate": "2.69%",
+            "ScoreO": "88.3",
+            "Score": 98.91443580841243
+        },
+        "Duo Showdown": {
+            "Winrate": "70.4%",
+            "Pickrate": "1.11%",
+            "ScoreO": "64.5",
+            "Score": 89.0722404597273
+        },
+        "Brawl Ball": {
+            "Winrate": "42.4%",
+            "Pickrate": "1.21%",
+            "ScoreO": "49.7",
+            "Score": 55.383250788259495
+        },
+        "Gem Grab": {
+            "Winrate": "42.7%",
+            "Pickrate": "0.95%",
+            "ScoreO": "44.6",
+            "Score": 56.00150000000001
+        },
+        "Showdown": {
+            "Winrate": "37.6%",
+            "Pickrate": "0.78%",
+            "ScoreO": "38.1",
+            "Score": 42.6208
+        },
+        "Heist": {
+            "Winrate": "57.4%",
+            "Pickrate": "0.17%",
+            "ScoreO": "37.9",
+            "Score": 32.6738
+        },
+        "Bounty": {
+            "Winrate": "46.7%",
+            "Pickrate": "0.28%",
+            "ScoreO": "33.6",
+            "Score": 31.38360000000001
+        },
+        "Basket Brawl": {
+            "Winrate": "20%",
+            "Pickrate": "1.04%",
+            "ScoreO": "32.8",
+            "Score": 21.819821394598442
+        },
+        "Knockout": {
+            "Winrate": "31.4%",
+            "Pickrate": "0.45%",
+            "ScoreO": "27.8",
+            "Score": 25.403
+        },
+        "Wipeout": {
+            "Winrate": "26.2%",
+            "Pickrate": "0.29%",
+            "ScoreO": "21.5",
+            "Score": 17.0978
+        },
+        "Payload": {
+            "Winrate": "12.5%",
+            "Pickrate": "0.52%",
+            "ScoreO": "17.9",
+            "Score": 9.030000000000001
+        }
+    },
+    "Larry-and-Lawrie": {
+        "Gem Grab": {
+            "Winrate": "81.4%",
+            "Pickrate": "0.84%",
+            "ScoreO": "65.6",
+            "Score": 102.73360000000002
+        },
+        "Hot Zone": {
+            "Winrate": "50.7%",
+            "Pickrate": "1.45%",
+            "ScoreO": "59.4",
+            "Score": 71.5650266929745
+        },
+        "Brawl Ball": {
+            "Winrate": "67.8%",
+            "Pickrate": "0.56%",
+            "ScoreO": "51.9",
+            "Score": 65.52480000000001
+        },
+        "Bounty": {
+            "Winrate": "59.3%",
+            "Pickrate": "0.81%",
+            "ScoreO": "51.8",
+            "Score": 71.69630000000001
+        },
+        "Heist": {
+            "Winrate": "56.6%",
+            "Pickrate": "0.23%",
+            "ScoreO": "38.6",
+            "Score": 35.579800000000006
+        },
+        "Knockout": {
+            "Winrate": "48%",
+            "Pickrate": "0.47%",
+            "ScoreO": "38.2",
+            "Score": 41.196
+        },
+        "Wipeout": {
+            "Winrate": "40.7%",
+            "Pickrate": "0.04%",
+            "ScoreO": "25.2",
+            "Score": 17.830800000000004
+        },
+        "Showdown": {
+            "Winrate": "33.3%",
+            "Pickrate": "0.11%",
+            "ScoreO": "22.2",
+            "Score": 16.6893
+        },
+        "Duo Showdown": {
+            "Winrate": "0%",
+            "Pickrate": "0.06%",
+            "ScoreO": "1.2",
+            "Score": -0.36
+        }
+    },
+    "Meg": {
+        "Payload": {
+            "Winrate": "57.1%",
+            "Pickrate": "2.28%",
+            "ScoreO": "79.9",
+            "Score": 93.43522328899049
+        },
+        "Hot Zone": {
+            "Winrate": "64.8%",
+            "Pickrate": "0.98%",
+            "ScoreO": "58.5",
+            "Score": 89.8944
+        },
+        "Gem Grab": {
+            "Winrate": "66.8%",
+            "Pickrate": "0.59%",
+            "ScoreO": "51.9",
+            "Score": 66.5332
+        },
+        "Brawl Ball": {
+            "Winrate": "68%",
+            "Pickrate": "0.42%",
+            "ScoreO": "49.2",
+            "Score": 56.096000000000004
+        },
+        "Knockout": {
+            "Winrate": "69.3%",
+            "Pickrate": "0.35%",
+            "ScoreO": "48.6",
+            "Score": 52.3005
+        },
+        "Duo Showdown": {
+            "Winrate": "57.6%",
+            "Pickrate": "0.59%",
+            "ScoreO": "46.4",
+            "Score": 56.882400000000004
+        },
+        "Bounty": {
+            "Winrate": "69.2%",
+            "Pickrate": "0.21%",
+            "ScoreO": "45.7",
+            "Score": 42.4052
+        },
+        "Showdown": {
+            "Winrate": "56.8%",
+            "Pickrate": "0.51%",
+            "ScoreO": "44.3",
+            "Score": 51.5248
+        },
+        "Heist": {
+            "Winrate": "59.2%",
+            "Pickrate": "0.08%",
+            "ScoreO": "37.1",
+            "Score": 28.409600000000005
+        },
+        "Wipeout": {
+            "Winrate": "52.1%",
+            "Pickrate": "0.07%",
+            "ScoreO": "32.7",
+            "Score": 24.431700000000003
+        }
+    },
+    "Colette": {
+        "Basket Brawl": {
+            "Winrate": "58.3%",
+            "Pickrate": "7.5%",
+            "ScoreO": "185",
+            "Score": 130.71177061626793
+        },
+        "Heist": {
+            "Winrate": "55%",
+            "Pickrate": "6.8%",
+            "ScoreO": "169",
+            "Score": 123.49687836546184
+        },
+        "Payload": {
+            "Winrate": "64.4%",
+            "Pickrate": "2.94%",
+            "ScoreO": "97.5",
+            "Score": 110.52012744051771
+        },
+        "Brawl Ball": {
+            "Winrate": "56.9%",
+            "Pickrate": "0.69%",
+            "ScoreO": "47.9",
+            "Score": 61.807100000000005
+        },
+        "Gem Grab": {
+            "Winrate": "48%",
+            "Pickrate": "0.54%",
+            "ScoreO": "39.6",
+            "Score": 44.47200000000001
+        },
+        "Duo Showdown": {
+            "Winrate": "50%",
+            "Pickrate": "0.36%",
+            "ScoreO": "37.2",
+            "Score": 37.64
+        },
+        "Knockout": {
+            "Winrate": "52.7%",
+            "Pickrate": "0.18%",
+            "ScoreO": "35.2",
+            "Score": 30.434600000000003
+        },
+        "Hot Zone": {
+            "Winrate": "42.4%",
+            "Pickrate": "0.47%",
+            "ScoreO": "34.8",
+            "Score": 36.0608
+        },
+        "Showdown": {
+            "Winrate": "41%",
+            "Pickrate": "0.43%",
+            "ScoreO": "33.2",
+            "Score": 33.213
+        },
+        "Bounty": {
+            "Winrate": "38.1%",
+            "Pickrate": "0.11%",
+            "ScoreO": "25.1",
+            "Score": 19.1901
+        },
+        "Wipeout": {
+            "Winrate": "6.2%",
+            "Pickrate": "0.1%",
+            "ScoreO": "5.7",
+            "Score": 2.5620000000000003
+        }
+    },
+    "Pam": {
+        "Hot Zone": {
+            "Winrate": "81.6%",
+            "Pickrate": "1.11%",
+            "ScoreO": "71.2",
+            "Score": 103.58296045972729
+        },
+        "Gem Grab": {
+            "Winrate": "78%",
+            "Pickrate": "0.53%",
+            "ScoreO": "57.4",
+            "Score": 73.49400000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "75.6%",
+            "Pickrate": "0.24%",
+            "ScoreO": "50.1",
+            "Score": 48.758399999999995
+        },
+        "Knockout": {
+            "Winrate": "68%",
+            "Pickrate": "0.09%",
+            "ScoreO": "42.6",
+            "Score": 33.392
+        },
+        "Showdown": {
+            "Winrate": "58%",
+            "Pickrate": "0.25%",
+            "ScoreO": "39.8",
+            "Score": 37.650000000000006
+        },
+        "Duo Showdown": {
+            "Winrate": "50%",
+            "Pickrate": "0.16%",
+            "ScoreO": "33.2",
+            "Score": 27.84
+        },
+        "Wipeout": {
+            "Winrate": "51.4%",
+            "Pickrate": "0.05%",
+            "ScoreO": "31.9",
+            "Score": 23.087000000000003
+        },
+        "Bounty": {
+            "Winrate": "34.6%",
+            "Pickrate": "0.07%",
+            "ScoreO": "22.2",
+            "Score": 16.084200000000003
+        },
+        "Heist": {
+            "Winrate": "20%",
+            "Pickrate": "0.01%",
+            "ScoreO": "12.2",
+            "Score": 8.16
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "8-BIT": {
+        "Wipeout": {
+            "Winrate": "74.2%",
+            "Pickrate": "9.46%",
+            "ScoreO": "233.7",
+            "Score": 158.2768914919136
+        },
+        "Gem Grab": {
+            "Winrate": "74.3%",
+            "Pickrate": "2.48%",
+            "ScoreO": "94.2",
+            "Score": 118.24203680530673
+        },
+        "Heist": {
+            "Winrate": "63.7%",
+            "Pickrate": "1.87%",
+            "ScoreO": "75.6",
+            "Score": 96.03907292599487
+        },
+        "Duo Showdown": {
+            "Winrate": "100%",
+            "Pickrate": "0.1%",
+            "ScoreO": "62",
+            "Score": 50.4
+        },
+        "Payload": {
+            "Winrate": "45%",
+            "Pickrate": "1.31%",
+            "ScoreO": "53.2",
+            "Score": 61.13401411639181
+        },
+        "Brawl Ball": {
+            "Winrate": "62.3%",
+            "Pickrate": "0.16%",
+            "ScoreO": "40.6",
+            "Score": 34.924800000000005
+        },
+        "Hot Zone": {
+            "Winrate": "48.9%",
+            "Pickrate": "0.24%",
+            "ScoreO": "34.2",
+            "Score": 31.029600000000002
+        },
+        "Bounty": {
+            "Winrate": "44.3%",
+            "Pickrate": "0.28%",
+            "ScoreO": "32.2",
+            "Score": 29.6844
+        },
+        "Showdown": {
+            "Winrate": "39%",
+            "Pickrate": "0.35%",
+            "ScoreO": "30.4",
+            "Score": 28.515
+        },
+        "Knockout": {
+            "Winrate": "30.8%",
+            "Pickrate": "0.16%",
+            "ScoreO": "21.7",
+            "Score": 16.7808
+        }
+    },
+    "Doug": {
+        "Wipeout": {
+            "Winrate": "78.5%",
+            "Pickrate": "1.55%",
+            "ScoreO": "78.1",
+            "Score": 109.58344792793467
+        },
+        "Duo Showdown": {
+            "Winrate": "67.1%",
+            "Pickrate": "1.19%",
+            "ScoreO": "64.1",
+            "Score": 86.88455921370314
+        },
+        "Knockout": {
+            "Winrate": "73.3%",
+            "Pickrate": "0.63%",
+            "ScoreO": "56.6",
+            "Score": 76.33690000000001
+        },
+        "Bounty": {
+            "Winrate": "55.8%",
+            "Pickrate": "1.09%",
+            "ScoreO": "55.3",
+            "Score": 69.61101088723159
+        },
+        "Hot Zone": {
+            "Winrate": "59.2%",
+            "Pickrate": "0.79%",
+            "ScoreO": "51.3",
+            "Score": 70.38480000000001
+        },
+        "Showdown": {
+            "Winrate": "46.9%",
+            "Pickrate": "0.76%",
+            "ScoreO": "43.3",
+            "Score": 53.40840000000001
+        },
+        "Brawl Ball": {
+            "Winrate": "55%",
+            "Pickrate": "0.24%",
+            "ScoreO": "37.8",
+            "Score": 35.08
+        },
+        "Gem Grab": {
+            "Winrate": "32%",
+            "Pickrate": "0.05%",
+            "ScoreO": "20.2",
+            "Score": 14.26
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.33%",
+            "ScoreO": "6.6",
+            "Score": -1.98
+        },
+        "Heist": {
+            "Winrate": "10%",
+            "Pickrate": "0.02%",
+            "ScoreO": "6.4",
+            "Score": 4.1
+        }
+    },
+    "Nani": {
+        "Wipeout": {
+            "Winrate": "71.3%",
+            "Pickrate": "8.56%",
+            "ScoreO": "214",
+            "Score": 151.52048570460954
+        },
+        "Bounty": {
+            "Winrate": "58.1%",
+            "Pickrate": "4.95%",
+            "ScoreO": "133.9",
+            "Score": 117.98718729741796
+        },
+        "Knockout": {
+            "Winrate": "58.5%",
+            "Pickrate": "2.42%",
+            "ScoreO": "83.5",
+            "Score": 97.03682620505786
+        },
+        "Duo Showdown": {
+            "Winrate": "71.1%",
+            "Pickrate": "0.79%",
+            "ScoreO": "58.5",
+            "Score": 85.4859
+        },
+        "Heist": {
+            "Winrate": "49.5%",
+            "Pickrate": "0.93%",
+            "ScoreO": "48.3",
+            "Score": 64.8585
+        },
+        "Brawl Ball": {
+            "Winrate": "64.2%",
+            "Pickrate": "0.26%",
+            "ScoreO": "43.7",
+            "Score": 42.4812
+        },
+        "Gem Grab": {
+            "Winrate": "44.4%",
+            "Pickrate": "0.24%",
+            "ScoreO": "31.4",
+            "Score": 28.041600000000003
+        },
+        "Showdown": {
+            "Winrate": "27.3%",
+            "Pickrate": "0.47%",
+            "ScoreO": "25.8",
+            "Score": 22.214100000000002
+        },
+        "Hot Zone": {
+            "Winrate": "40%",
+            "Pickrate": "0.04%",
+            "ScoreO": "24.8",
+            "Score": 17.52
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.07%",
+            "ScoreO": "1.4",
+            "Score": -0.42000000000000004
+        }
+    },
+    "Squeak": {
+        "Hot Zone": {
+            "Winrate": "61.8%",
+            "Pickrate": "1.11%",
+            "ScoreO": "59.3",
+            "Score": 77.93008045972728
+        },
+        "Duo Showdown": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.54%",
+            "ScoreO": "50.8",
+            "Score": 63.05980000000001
+        },
+        "Gem Grab": {
+            "Winrate": "55%",
+            "Pickrate": "0.82%",
+            "ScoreO": "49.4",
+            "Score": 66.69
+        },
+        "Brawl Ball": {
+            "Winrate": "61.2%",
+            "Pickrate": "0.44%",
+            "ScoreO": "45.5",
+            "Score": 51.460800000000006
+        },
+        "Bounty": {
+            "Winrate": "53.2%",
+            "Pickrate": "0.33%",
+            "ScoreO": "38.5",
+            "Score": 38.6116
+        },
+        "Knockout": {
+            "Winrate": "42.8%",
+            "Pickrate": "0.54%",
+            "ScoreO": "36.5",
+            "Score": 39.303200000000004
+        },
+        "Wipeout": {
+            "Winrate": "32.6%",
+            "Pickrate": "0.58%",
+            "ScoreO": "31.2",
+            "Score": 30.358800000000006
+        },
+        "Showdown": {
+            "Winrate": "39%",
+            "Pickrate": "0.22%",
+            "ScoreO": "27.8",
+            "Score": 23.718000000000004
+        },
+        "Heist": {
+            "Winrate": "30.9%",
+            "Pickrate": "0.16%",
+            "ScoreO": "21.8",
+            "Score": 16.8384
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.33%",
+            "ScoreO": "6.6",
+            "Score": -1.98
+        }
+    },
+    "Tick": {
+        "Wipeout": {
+            "Winrate": "38.5%",
+            "Pickrate": "5.07%",
+            "ScoreO": "124.5",
+            "Score": 93.31202452809276
+        },
+        "Bounty": {
+            "Winrate": "51%",
+            "Pickrate": "2.55%",
+            "ScoreO": "81.6",
+            "Score": 88.88960077511005
+        },
+        "Knockout": {
+            "Winrate": "43.6%",
+            "Pickrate": "2.19%",
+            "ScoreO": "69.9",
+            "Score": 74.73640631485229
+        },
+        "Duo Showdown": {
+            "Winrate": "100%",
+            "Pickrate": "0.22%",
+            "ScoreO": "64.4",
+            "Score": 62.88
+        },
+        "Payload": {
+            "Winrate": "40.7%",
+            "Pickrate": "1.76%",
+            "ScoreO": "59.6",
+            "Score": 64.42153427150183
+        },
+        "Hot Zone": {
+            "Winrate": "9.4%",
+            "Pickrate": "2.49%",
+            "ScoreO": "55.4",
+            "Score": 34.278321314298495
+        },
+        "Showdown": {
+            "Winrate": "30.3%",
+            "Pickrate": "1.38%",
+            "ScoreO": "45.8",
+            "Score": 43.6503849750734
+        },
+        "Gem Grab": {
+            "Winrate": "9.9%",
+            "Pickrate": "0.72%",
+            "ScoreO": "20.4",
+            "Score": 7.4808
+        },
+        "Brawl Ball": {
+            "Winrate": "10.4%",
+            "Pickrate": "0.65%",
+            "ScoreO": "19.3",
+            "Score": 7.6960000000000015
+        },
+        "Heist": {
+            "Winrate": "6.8%",
+            "Pickrate": "0.07%",
+            "ScoreO": "5.5",
+            "Score": 2.8236000000000003
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        }
+    },
+    "Bonnie": {
+        "Knockout": {
+            "Winrate": "67.7%",
+            "Pickrate": "0.68%",
+            "ScoreO": "54.2",
+            "Score": 73.63960000000002
+        },
+        "Brawl Ball": {
+            "Winrate": "76.6%",
+            "Pickrate": "0.38%",
+            "ScoreO": "53.5",
+            "Score": 60.3788
+        },
+        "Bounty": {
+            "Winrate": "72.3%",
+            "Pickrate": "0.46%",
+            "ScoreO": "52.6",
+            "Score": 62.74380000000001
+        },
+        "Duo Showdown": {
+            "Winrate": "77.8%",
+            "Pickrate": "0.14%",
+            "ScoreO": "49.5",
+            "Score": 42.2612
+        },
+        "Heist": {
+            "Winrate": "65.4%",
+            "Pickrate": "0.36%",
+            "ScoreO": "46.5",
+            "Score": 49.89840000000001
+        },
+        "Wipeout": {
+            "Winrate": "51%",
+            "Pickrate": "0.32%",
+            "ScoreO": "37",
+            "Score": 36.432
+        },
+        "Gem Grab": {
+            "Winrate": "55.1%",
+            "Pickrate": "0.15%",
+            "ScoreO": "36",
+            "Score": 30.231500000000004
+        },
+        "Hot Zone": {
+            "Winrate": "53.3%",
+            "Pickrate": "0.04%",
+            "ScoreO": "32.8",
+            "Score": 23.425200000000004
+        },
+        "Showdown": {
+            "Winrate": "46.4%",
+            "Pickrate": "0.2%",
+            "ScoreO": "31.9",
+            "Score": 27.567999999999998
+        }
+    },
+    "Maisie": {
+        "Basket Brawl": {
+            "Winrate": "66.7%",
+            "Pickrate": "3.13%",
+            "ScoreO": "102.6",
+            "Score": 115.37871013656186
+        },
+        "Brawl Ball": {
+            "Winrate": "60.7%",
+            "Pickrate": "2.46%",
+            "ScoreO": "85.6",
+            "Score": 100.37896049832815
+        },
+        "Payload": {
+            "Winrate": "57.9%",
+            "Pickrate": "2.48%",
+            "ScoreO": "84.3",
+            "Score": 96.99419680530673
+        },
+        "Hot Zone": {
+            "Winrate": "58.5%",
+            "Pickrate": "1.02%",
+            "ScoreO": "55.5",
+            "Score": 71.1178788188854
+        },
+        "Gem Grab": {
+            "Winrate": "51.3%",
+            "Pickrate": "0.73%",
+            "ScoreO": "45.4",
+            "Score": 57.3339
+        },
+        "Showdown": {
+            "Winrate": "44.3%",
+            "Pickrate": "0.82%",
+            "ScoreO": "43",
+            "Score": 52.758599999999994
+        },
+        "Duo Showdown": {
+            "Winrate": "43.5%",
+            "Pickrate": "0.62%",
+            "ScoreO": "38.5",
+            "Score": 43.34700000000001
+        },
+        "Heist": {
+            "Winrate": "51.9%",
+            "Pickrate": "0.09%",
+            "ScoreO": "33",
+            "Score": 25.3581
+        },
+        "Bounty": {
+            "Winrate": "43.4%",
+            "Pickrate": "0.14%",
+            "ScoreO": "28.8",
+            "Score": 23.2036
+        },
+        "Knockout": {
+            "Winrate": "34.6%",
+            "Pickrate": "0.28%",
+            "ScoreO": "26.4",
+            "Score": 22.816800000000004
+        },
+        "Wipeout": {
+            "Winrate": "12.5%",
+            "Pickrate": "0.2%",
+            "ScoreO": "11.5",
+            "Score": 6.55
+        }
+    },
+    "Chester": {
+        "Gem Grab": {
+            "Winrate": "64.3%",
+            "Pickrate": "1.03%",
+            "ScoreO": "59.2",
+            "Score": 78.92504406724633
+        },
+        "Brawl Ball": {
+            "Winrate": "69%",
+            "Pickrate": "0.81%",
+            "ScoreO": "57.6",
+            "Score": 84.21900000000001
+        },
+        "Hot Zone": {
+            "Winrate": "63.4%",
+            "Pickrate": "0.34%",
+            "ScoreO": "44.9",
+            "Score": 47.031600000000005
+        },
+        "Showdown": {
+            "Winrate": "43.6%",
+            "Pickrate": "0.86%",
+            "ScoreO": "43.4",
+            "Score": 53.525600000000004
+        },
+        "Duo Showdown": {
+            "Winrate": "52%",
+            "Pickrate": "0.6%",
+            "ScoreO": "43.2",
+            "Score": 51.52
+        },
+        "Bounty": {
+            "Winrate": "36.4%",
+            "Pickrate": "0.31%",
+            "ScoreO": "28.1",
+            "Score": 25.1124
+        },
+        "Knockout": {
+            "Winrate": "37.5%",
+            "Pickrate": "0.26%",
+            "ScoreO": "27.7",
+            "Score": 24.165
+        },
+        "Wipeout": {
+            "Winrate": "38.1%",
+            "Pickrate": "0.17%",
+            "ScoreO": "26.2",
+            "Score": 21.344700000000003
+        },
+        "Payload": {
+            "Winrate": "14.3%",
+            "Pickrate": "0.46%",
+            "ScoreO": "17.8",
+            "Score": 10.195800000000002
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.21%",
+            "ScoreO": "4.2",
+            "Score": -1.26
+        },
+        "Heist": {
+            "Winrate": "4.2%",
+            "Pickrate": "0.04%",
+            "ScoreO": "3.3",
+            "Score": 1.6248000000000002
+        }
+    },
+    "Colt": {
+        "Heist": {
+            "Winrate": "52.1%",
+            "Pickrate": "14.09%",
+            "ScoreO": "313",
+            "Score": 141.59591977731765
+        },
+        "Bounty": {
+            "Winrate": "40.5%",
+            "Pickrate": "3.71%",
+            "ScoreO": "98.5",
+            "Score": 86.53395629858032
+        },
+        "Duo Showdown": {
+            "Winrate": "52%",
+            "Pickrate": "2.62%",
+            "ScoreO": "83.6",
+            "Score": 90.99762953319018
+        },
+        "Brawl Ball": {
+            "Winrate": "35%",
+            "Pickrate": "2.64%",
+            "ScoreO": "73.8",
+            "Score": 69.20056751474675
+        },
+        "Showdown": {
+            "Winrate": "33.1%",
+            "Pickrate": "1.91%",
+            "ScoreO": "58.1",
+            "Score": 57.028657261756166
+        },
+        "Basket Brawl": {
+            "Winrate": "50%",
+            "Pickrate": "1.25%",
+            "ScoreO": "55",
+            "Score": 66.2055065394263
+        },
+        "Gem Grab": {
+            "Winrate": "34.9%",
+            "Pickrate": "1.2%",
+            "ScoreO": "44.9",
+            "Score": 45.41728670381864
+        },
+        "Knockout": {
+            "Winrate": "26.4%",
+            "Pickrate": "1.35%",
+            "ScoreO": "42.9",
+            "Score": 37.93817777351015
+        },
+        "Wipeout": {
+            "Winrate": "15.1%",
+            "Pickrate": "1.26%",
+            "ScoreO": "34.3",
+            "Score": 21.2281116289016
+        },
+        "Hot Zone": {
+            "Winrate": "22.3%",
+            "Pickrate": "0.69%",
+            "ScoreO": "27.2",
+            "Score": 21.7057
+        },
+        "Payload": {
+            "Winrate": "0%",
+            "Pickrate": "0.78%",
+            "ScoreO": "15.6",
+            "Score": -4.68
+        }
+    },
+    "Byron": {
+        "Knockout": {
+            "Winrate": "59.5%",
+            "Pickrate": "3.64%",
+            "ScoreO": "108.5",
+            "Score": 110.57891044945949
+        },
+        "Bounty": {
+            "Winrate": "54%",
+            "Pickrate": "3.3%",
+            "ScoreO": "98.4",
+            "Score": 100.51127405417304
+        },
+        "Payload": {
+            "Winrate": "88.2%",
+            "Pickrate": "1.11%",
+            "ScoreO": "75.1",
+            "Score": 112.13392045972729
+        },
+        "Duo Showdown": {
+            "Winrate": "60.7%",
+            "Pickrate": "1.2%",
+            "ScoreO": "60.4",
+            "Score": 78.84376670381864
+        },
+        "Brawl Ball": {
+            "Winrate": "64.9%",
+            "Pickrate": "0.92%",
+            "ScoreO": "57.4",
+            "Score": 86.11880000000002
+        },
+        "Gem Grab": {
+            "Winrate": "45.3%",
+            "Pickrate": "1.36%",
+            "ScoreO": "54.4",
+            "Score": 62.64642099243882
+        },
+        "Wipeout": {
+            "Winrate": "39.5%",
+            "Pickrate": "1.47%",
+            "ScoreO": "53.1",
+            "Score": 57.46527202371935
+        },
+        "Hot Zone": {
+            "Winrate": "46.8%",
+            "Pickrate": "1.12%",
+            "ScoreO": "50.5",
+            "Score": 58.765140559210096
+        },
+        "Heist": {
+            "Winrate": "55.3%",
+            "Pickrate": "0.76%",
+            "ScoreO": "48.4",
+            "Score": 63.790800000000004
+        },
+        "Showdown": {
+            "Winrate": "48.2%",
+            "Pickrate": "0.31%",
+            "ScoreO": "35.1",
+            "Score": 33.8562
+        }
+    },
+    "Buster": {
+        "Knockout": {
+            "Winrate": "71.2%",
+            "Pickrate": "1.87%",
+            "ScoreO": "80.1",
+            "Score": 105.75607292599487
+        },
+        "Duo Showdown": {
+            "Winrate": "82.5%",
+            "Pickrate": "0.77%",
+            "ScoreO": "64.9",
+            "Score": 98.2575
+        },
+        "Gem Grab": {
+            "Winrate": "57%",
+            "Pickrate": "1.24%",
+            "ScoreO": "59",
+            "Score": 75.03374138850837
+        },
+        "Brawl Ball": {
+            "Winrate": "69%",
+            "Pickrate": "0.87%",
+            "ScoreO": "58.8",
+            "Score": 88.41300000000001
+        },
+        "Wipeout": {
+            "Winrate": "72.8%",
+            "Pickrate": "0.69%",
+            "ScoreO": "57.5",
+            "Score": 80.23519999999999
+        },
+        "Bounty": {
+            "Winrate": "65.7%",
+            "Pickrate": "0.72%",
+            "ScoreO": "53.8",
+            "Score": 73.99440000000001
+        },
+        "Basket Brawl": {
+            "Winrate": "66.7%",
+            "Pickrate": "0.63%",
+            "ScoreO": "52.6",
+            "Score": 69.12310000000001
+        },
+        "Hot Zone": {
+            "Winrate": "57.1%",
+            "Pickrate": "0.61%",
+            "ScoreO": "46.5",
+            "Score": 57.4941
+        },
+        "Showdown": {
+            "Winrate": "51.9%",
+            "Pickrate": "0.2%",
+            "ScoreO": "35.1",
+            "Score": 30.978
+        },
+        "Payload": {
+            "Winrate": "25%",
+            "Pickrate": "0.52%",
+            "ScoreO": "25.4",
+            "Score": 21.18
+        },
+        "Heist": {
+            "Winrate": "25%",
+            "Pickrate": "0.01%",
+            "ScoreO": "15.2",
+            "Score": 10.215
+        }
+    },
+    "Bea": {
+        "Payload": {
+            "Winrate": "69.6%",
+            "Pickrate": "5.16%",
+            "ScoreO": "145",
+            "Score": 134.13305738480415
+        },
+        "Basket Brawl": {
+            "Winrate": "76.5%",
+            "Pickrate": "3.54%",
+            "ScoreO": "116.7",
+            "Score": 131.76840181437052
+        },
+        "Brawl Ball": {
+            "Winrate": "70.1%",
+            "Pickrate": "2.31%",
+            "ScoreO": "88.3",
+            "Score": 110.67018573601108
+        },
+        "Hot Zone": {
+            "Winrate": "61.5%",
+            "Pickrate": "0.65%",
+            "ScoreO": "49.9",
+            "Score": 64.67250000000001
+        },
+        "Knockout": {
+            "Winrate": "41.4%",
+            "Pickrate": "0.7%",
+            "ScoreO": "38.9",
+            "Score": 44.238
+        },
+        "Bounty": {
+            "Winrate": "38.3%",
+            "Pickrate": "0.78%",
+            "ScoreO": "38.6",
+            "Score": 43.501400000000004
+        },
+        "Duo Showdown": {
+            "Winrate": "42.9%",
+            "Pickrate": "0.49%",
+            "ScoreO": "35.5",
+            "Score": 37.3431
+        },
+        "Gem Grab": {
+            "Winrate": "38.7%",
+            "Pickrate": "0.51%",
+            "ScoreO": "33.4",
+            "Score": 34.130700000000004
+        },
+        "Heist": {
+            "Winrate": "51%",
+            "Pickrate": "0.09%",
+            "ScoreO": "32.4",
+            "Score": 24.909000000000002
+        },
+        "Showdown": {
+            "Winrate": "40.7%",
+            "Pickrate": "0.3%",
+            "ScoreO": "30.4",
+            "Score": 27.911
+        },
+        "Wipeout": {
+            "Winrate": "26.4%",
+            "Pickrate": "0.51%",
+            "ScoreO": "26.1",
+            "Score": 22.3104
+        }
+    },
+    "Lou": {
+        "Hot Zone": {
+            "Winrate": "71%",
+            "Pickrate": "4.1%",
+            "ScoreO": "124.6",
+            "Score": 129.04840921130787
+        },
+        "Payload": {
+            "Winrate": "69.8%",
+            "Pickrate": "2.81%",
+            "ScoreO": "98.1",
+            "Score": 116.15961450036963
+        },
+        "Brawl Ball": {
+            "Winrate": "65.7%",
+            "Pickrate": "0.88%",
+            "ScoreO": "57",
+            "Score": 84.5976
+        },
+        "Gem Grab": {
+            "Winrate": "62.6%",
+            "Pickrate": "0.58%",
+            "ScoreO": "49.1",
+            "Score": 61.4988
+        },
+        "Knockout": {
+            "Winrate": "58.1%",
+            "Pickrate": "0.23%",
+            "ScoreO": "39.5",
+            "Score": 36.55930000000001
+        },
+        "Bounty": {
+            "Winrate": "56.9%",
+            "Pickrate": "0.15%",
+            "ScoreO": "37.1",
+            "Score": 31.248500000000003
+        },
+        "Duo Showdown": {
+            "Winrate": "50%",
+            "Pickrate": "0.13%",
+            "ScoreO": "32.6",
+            "Score": 26.369999999999997
+        },
+        "Showdown": {
+            "Winrate": "32.9%",
+            "Pickrate": "0.27%",
+            "ScoreO": "25.1",
+            "Score": 21.311300000000003
+        },
+        "Heist": {
+            "Winrate": "34%",
+            "Pickrate": "0.08%",
+            "ScoreO": "22",
+            "Score": 16.112000000000002
+        },
+        "Basket Brawl": {
+            "Winrate": "0%",
+            "Pickrate": "0.42%",
+            "ScoreO": "8.4",
+            "Score": -2.52
+        },
+        "Wipeout": {
+            "Winrate": "2.7%",
+            "Pickrate": "0.06%",
+            "ScoreO": "2.8",
+            "Score": 0.8982000000000001
+        }
+    },
+    "Gale": {
+        "Basket Brawl": {
+            "Winrate": "46.4%",
+            "Pickrate": "5.83%",
+            "ScoreO": "144.5",
+            "Score": 107.73755001087204
+        },
+        "Hot Zone": {
+            "Winrate": "62.7%",
+            "Pickrate": "2.95%",
+            "ScoreO": "96.6",
+            "Score": 108.41947511055186
+        },
+        "Payload": {
+            "Winrate": "48.8%",
+            "Pickrate": "2.81%",
+            "ScoreO": "85.5",
+            "Score": 88.95201450036964
+        },
+        "Gem Grab": {
+            "Winrate": "62.5%",
+            "Pickrate": "1.25%",
+            "ScoreO": "62.5",
+            "Score": 82.4005065394263
+        },
+        "Brawl Ball": {
+            "Winrate": "57.7%",
+            "Pickrate": "1.28%",
+            "ScoreO": "60.2",
+            "Score": 76.89312233794578
+        },
+        "Duo Showdown": {
+            "Winrate": "78.6%",
+            "Pickrate": "0.38%",
+            "ScoreO": "54.7",
+            "Score": 62.0148
+        },
+        "Showdown": {
+            "Winrate": "47%",
+            "Pickrate": "0.97%",
+            "ScoreO": "47.6",
+            "Score": 63.129000000000005
+        },
+        "Heist": {
+            "Winrate": "49.1%",
+            "Pickrate": "0.09%",
+            "ScoreO": "31.3",
+            "Score": 23.960900000000002
+        },
+        "Bounty": {
+            "Winrate": "40.5%",
+            "Pickrate": "0.24%",
+            "ScoreO": "29.1",
+            "Score": 25.451999999999998
+        },
+        "Knockout": {
+            "Winrate": "37.1%",
+            "Pickrate": "0.16%",
+            "ScoreO": "25.5",
+            "Score": 20.409600000000005
+        },
+        "Wipeout": {
+            "Winrate": "9.4%",
+            "Pickrate": "0.05%",
+            "ScoreO": "6.6",
+            "Score": 3.9770000000000003
+        }
+    },
+    "Bo": {
+        "Bounty": {
+            "Winrate": "63.8%",
+            "Pickrate": "3.86%",
+            "ScoreO": "115.5",
+            "Score": 117.91049550430218
+        },
+        "Duo Showdown": {
+            "Winrate": "73.3%",
+            "Pickrate": "1.88%",
+            "ScoreO": "81.6",
+            "Score": 108.63683330525575
+        },
+        "Gem Grab": {
+            "Winrate": "45.1%",
+            "Pickrate": "1.21%",
+            "ScoreO": "51.3",
+            "Score": 58.8813707882595
+        },
+        "Knockout": {
+            "Winrate": "56.4%",
+            "Pickrate": "0.87%",
+            "ScoreO": "51.2",
+            "Score": 71.3148
+        },
+        "Hot Zone": {
+            "Winrate": "44.6%",
+            "Pickrate": "1.12%",
+            "ScoreO": "49.1",
+            "Score": 55.914820559210106
+        },
+        "Brawl Ball": {
+            "Winrate": "58.5%",
+            "Pickrate": "0.46%",
+            "ScoreO": "44.3",
+            "Score": 50.241
+        },
+        "Showdown": {
+            "Winrate": "37.2%",
+            "Pickrate": "0.67%",
+            "ScoreO": "35.7",
+            "Score": 38.27640000000001
+        },
+        "Payload": {
+            "Winrate": "28.6%",
+            "Pickrate": "0.91%",
+            "ScoreO": "35.3",
+            "Score": 34.60860000000001
+        },
+        "Wipeout": {
+            "Winrate": "20.6%",
+            "Pickrate": "0.78%",
+            "ScoreO": "28",
+            "Score": 21.234800000000007
+        },
+        "Heist": {
+            "Winrate": "24.8%",
+            "Pickrate": "0.17%",
+            "ScoreO": "18.3",
+            "Score": 13.537600000000003
+        }
+    },
+    "Amber": {
+        "Payload": {
+            "Winrate": "69.8%",
+            "Pickrate": "2.81%",
+            "ScoreO": "98.1",
+            "Score": 116.15961450036963
+        },
+        "Gem Grab": {
+            "Winrate": "69.1%",
+            "Pickrate": "1.69%",
+            "ScoreO": "75.3",
+            "Score": 99.99901586804947
+        },
+        "Heist": {
+            "Winrate": "64.6%",
+            "Pickrate": "1.6%",
+            "ScoreO": "70.7",
+            "Score": 92.52706887737206
+        },
+        "Basket Brawl": {
+            "Winrate": "80%",
+            "Pickrate": "1.04%",
+            "ScoreO": "68.8",
+            "Score": 99.55582139459845
+        },
+        "Hot Zone": {
+            "Winrate": "56%",
+            "Pickrate": "1.25%",
+            "ScoreO": "58.6",
+            "Score": 73.9791065394263
+        },
+        "Brawl Ball": {
+            "Winrate": "72.7%",
+            "Pickrate": "0.73%",
+            "ScoreO": "58.2",
+            "Score": 83.0781
+        },
+        "Wipeout": {
+            "Winrate": "61.4%",
+            "Pickrate": "0.16%",
+            "ScoreO": "40",
+            "Score": 34.406400000000005
+        },
+        "Duo Showdown": {
+            "Winrate": "50%",
+            "Pickrate": "0.45%",
+            "ScoreO": "39",
+            "Score": 42.050000000000004
+        },
+        "Knockout": {
+            "Winrate": "57.9%",
+            "Pickrate": "0.12%",
+            "ScoreO": "37.1",
+            "Score": 30.082800000000002
+        },
+        "Bounty": {
+            "Winrate": "44.4%",
+            "Pickrate": "0.1%",
+            "ScoreO": "28.7",
+            "Score": 22.044
+        },
+        "Showdown": {
+            "Winrate": "33.3%",
+            "Pickrate": "0.2%",
+            "ScoreO": "24",
+            "Score": 19.446
+        }
+    }
+}
