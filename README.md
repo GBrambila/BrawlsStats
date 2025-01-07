@@ -1,3 +1,4 @@
+## Analisador de Brawlers e Mapas no Brawl Stars
 **Brawlers Stats** é script em Python permite analisar e classificar os **brawlers** do jogo [Brawl Stars](https://brawlstars.com/) com base em estatísticas obtidas através de scraping de dados do noff.gg.
 
 ## Funcionalidades
